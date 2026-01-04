@@ -1,0 +1,210 @@
+INC = {
+   value = -100
+   truce_until = "1841.1.1"
+}
+
+leader = {
+	name = "Juan Manuel Santos"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Angelino Garz�n"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Francisco de Miranda"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Alonso de Lugo"
+	type = sea
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Ej�rcito de Andagoya"
+	location = 2201
+   	regiment = {
+		name= "1. Brigada de Infanter�a"
+		type = infantry
+		home = 2170
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanter�a"
+		type = infantry
+		home = 2170
+	}
+	regiment = {
+		name= "3. Brigada de Infanter�a"
+		type = infantry
+		home = 132
+	}
+
+	regiment = {
+		name= "4. Brigada de Infanter�a"
+		type = infantry
+		home = 2156
+	}
+
+	regiment = {
+		name= "5. Brigada de Infanter�a"
+		type = infantry
+		home = 2173
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballer�a"
+		type = hussar
+		home = 2173
+	}
+
+	regiment = {
+		name= "2. Brigada de Caballer�a"
+		type = hussar
+		home = 2251
+	}
+
+	regiment = {
+		name= "3. Brigada de Caballer�a"
+		type = hussar
+		home = 2161
+	}
+
+}
+
+army = {
+	name = "Ej�rcito de Liberaci�n"
+	location = 2191
+	regiment = {
+		name= "1. Divisi�n de Infanter�a"
+		type = infantry
+		home = 2172
+	}
+
+	regiment = {
+		name= "2. Divisi�n de Infanter�a"
+		type = infantry
+		home = 2172
+	}
+
+	regiment = {
+		name= "3. Divisi�n de Infanter�a"
+		type = infantry
+		home = 2172
+	}
+
+	regiment = {
+		name= "1. Divisi�n de Caballer�a"
+		type = artillery
+		home = 2172
+	}
+
+	regiment = {
+		name= "2. Divisi�n de Caballer�a"
+		type = hussar
+		home = 2172
+	}
+
+	regiment = {
+		name= "3. Divisi�n de Caballer�a"
+		type = hussar
+		home = 2172
+	}
+
+}
+
+army = {
+	name = "Ej�rcito del Norte"
+	location = 137
+	regiment = {
+		name= "1.Division Cos"
+		type = infantry
+		home = 2172
+	}
+
+	regiment = {
+		name= "2.Division Cos"
+		type = infantry
+		home = 2164
+	}
+
+	regiment = {
+		name= "3.Division Cos"
+		type = infantry
+		home = 2164
+	}
+
+	regiment = {
+		name= "4.Division Cos"
+		type = infantry
+		home = 2302
+	}
+
+	regiment = {
+		name= "5.Division Cos"
+		type = artillery
+		home = 2295
+	}
+
+}
+
+army = {
+	name = "Activo Oajaca"
+	location = 90
+	regiment = {
+		name= "1.Oajaca y Tlaxcala"
+		type = infantry
+		home = 2295
+	}
+
+	regiment = {
+		name= "2.Oajaca y Tlaxcala"
+		type = infantry
+		home = 2279
+	}
+
+	regiment = {
+		name= "3.Oajaca y Tlaxcala"
+		type = infantry
+		home = 2279
+	}
+
+}
+
+army = {
+	name = "Ej�rcito de la Revoluci�n"
+	location = 2172
+	regiment = {
+		name= "1.Division Comonfort"
+		type = infantry
+		home = 2251
+	}
+
+	regiment = {
+		name= "2.Division Comonfort"
+		type = infantry
+		home = 2264
+	}
+
+	regiment = {
+		name= "3.Division Comonfort"
+		type = dragoon
+		home = 2197
+	}
+
+}

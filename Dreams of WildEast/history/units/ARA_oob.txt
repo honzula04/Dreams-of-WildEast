@@ -1,0 +1,662 @@
+#Sphere of Influence
+PAP = {
+	value = 150		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+VEN = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+FRR = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+PRV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+TUN = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+
+MAC = {
+	value = 125		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+
+ALB = {
+	value = 125		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+
+leader = {
+	name = "Josep Serna"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Ramon Oller"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Antonio Verga"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Carles Montaner"
+	type = sea
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Giuseppe Settimo"
+	type = sea
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+#Army
+army = {
+	name = "Ex�rcit del Regne"
+	location = 498
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = infantry
+		home = 495
+	}
+
+	regiment = {
+		name= "2. Granaders del Rei"
+		type = infantry
+		home = 495
+	}
+
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = infantry
+		home = 498
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 498
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = infantry
+		home = 498
+	}
+
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = hussar
+		home = 495
+	}
+
+	regiment = {
+		name= "2. Granaders del Rei"
+		type = hussar
+		home = 503
+	}
+}
+
+army = {
+	name = "Ex�rcit del Sud"
+	location = 503
+
+	regiment = {
+		name= "8. Brigada de Infanteria"
+		type = infantry
+		home = 503
+	}
+
+	regiment = {
+		name= "9. Brigada de Infanteria"
+		type = infantry
+		home = 503
+	}
+
+	regiment = {
+		name= "10. Brigada de Infanteria"
+		type = infantry
+		home = 503
+	}
+
+	regiment = {
+		name= "11. Brigada de Infanteria"
+		type = artillery
+		home = 1726
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infanteria"
+		type = artillery
+		home = 1726
+	}
+}
+
+army = {
+	name = "Ex�rcit Itali�"
+	location = 754
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = infantry
+		home = 765
+	}
+
+	regiment = {
+		name= "2. Granaders del Rei"
+		type = infantry
+		home = 765
+	}
+
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = infantry
+		home = 753
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 1701
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = infantry
+		home = 1703
+	}
+
+	regiment = {
+		name= "1. Granaders del Rei"
+		type = hussar
+		home = 1701
+	}
+
+	regiment = {
+		name= "2. Granaders del Rei"
+		type = hussar
+		home = 1701
+	}
+}
+
+army = {
+	name = "Ex�rcit d'Alger"
+	location = 1700
+
+	regiment = {
+		name= "8. Brigada de Infanteria"
+		type = infantry
+		home = 1703
+	}
+
+	regiment = {
+		name= "9. Brigada de Infanteria"
+		type = infantry
+		home = 763
+	}
+
+	regiment = {
+		name= "10. Brigada de Infanteria"
+		type = infantry
+		home = 1701
+	}
+
+	regiment = {
+		name= "11. Brigada de Infanteria"
+		type = infantry
+		home = 763
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infanteria"
+		type = infantry
+		home = 763
+	}
+}
+
+navy = {
+	name = "Flota del Regne"
+	location = 498
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hesp�rides"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinella"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Arag�"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Joan"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Ferran"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Barcelona"
+		type = manowar
+	}
+	
+	ship = {
+		name = "N�pols"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Cartago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Tun�sia"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Catalunya"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Sic�lia"
+		type = manowar
+	}
+		
+	ship = {
+		name = "�taca"
+		type = manowar
+	}
+	
+	ship = {
+		name = "�ndia"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Europa"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Buonaparte"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Lle�"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Val�ncia"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Felip"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Marguerita"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Mallorca"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Menorca"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Ibissa"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Sardenya"
+		type = frigate
+	}
+	
+	ship = {
+		name = "C�rsega"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Malta"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Illa de Liberta"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Ib�ria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "It�lia"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Pax"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Alvarez"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Braganca"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9a Flotilla de Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10a Flotilla de Transport"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Flota de N�pols"
+	location = 754
+	
+	ship = {
+		name = "Nova Roma"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Am�riga"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Arc�dia"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hisp�nia"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Joan Pau"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Sant Francesc"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Herkules"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Tit�"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Illias"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Gr�cia"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hellene"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Ven�cia"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Rosell�"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Pyrrenea"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isabela"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ceres"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Arm�nia"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cal�bria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Alexandrea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Antillea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nova Granada"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Columbia"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Torejador"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Mar"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cartagena"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Alg�ria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nomine"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Tart�rea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Seren�ssima"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Aegea"
+		type = frigate
+	}
+}
+
+navy = {
+	name = "Flota de les Antilles"
+	location = 2231
+	
+	ship = {
+		name = "Santa Fe"
+		type = frigate
+	}
+	
+	ship = {
+		name = "U"
+		type = frigate
+	}
+	
+	ship = {
+		name = "J�nica"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Galatea"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Pegasus"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Orinoco"
+		type = frigate
+	}
+	
+	ship = {
+		name = "�frica"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Rex"
+		type = frigate
+	}
+
+
+}
