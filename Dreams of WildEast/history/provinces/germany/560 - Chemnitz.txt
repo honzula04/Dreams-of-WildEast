@@ -1,12 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-add_core = SAX
-add_core = GER
+#owner = SAX
+#controller = SAX
+#add_core = SAX
+
 trade_goods = iron
 life_rating = 38
-1836.1.2 = {
-	owner = SAX
-	controller = SAX
-	remove_core = BOH
-}

@@ -1,7 +1,6 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-add_core = SIL
+#owner = BOH
+#controller = BOH
+#add_core = BOH
 trade_goods = grain
 life_rating = 38
 state_building = {
@@ -23,9 +22,4 @@ state_building = {
 	level = 2
 	building = small_arms_factory
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = SIL
-	controller = SIL
-	remove_core = BOH
 }

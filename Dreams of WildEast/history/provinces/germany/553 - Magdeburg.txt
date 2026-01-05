@@ -1,8 +1,7 @@
-owner = BOH
-controller = BOH
-add_core = BOH
-add_core = BRN
-add_core = GER
+#owner = BOH
+#controller = BOH
+#add_core = BOH
+
 trade_goods = cattle
 life_rating = 40
 state_building = {
@@ -19,9 +18,4 @@ state_building = {
 	level = 2
 	building = paper_mill
 	upgrade = yes
-}
-1836.1.2 = {
-	owner = BRN
-	controller = BRN
-	remove_core = BOH
 }
