@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = HOL
 add_core = GER
 trade_goods = grain
@@ -8,5 +8,5 @@ life_rating = 38
 1836.1.2 = {
 	owner = HOL
 	controller = HOL
-	remove_core = SCA
+	remove_core = DEN
 }

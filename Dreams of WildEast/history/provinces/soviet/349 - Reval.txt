@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = KRL
+controller = KRL
+add_core = KRL
 add_core = EST
 trade_goods = grain
 life_rating = 40
@@ -8,5 +8,5 @@ fort = 1
 1836.1.2 = {
 	owner = EST
 	controller = EST
-	remove_core = SCA
+	remove_core = KRL
 }

@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = NOR
+controller = NOR
+add_core = NOR
 trade_goods = timber
 naval_base = 1
 life_rating = 40
