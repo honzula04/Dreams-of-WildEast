@@ -1,6 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
+owner = ARQ
+controller = ARQ
+add_core = ARQ
 add_core = ENL
 trade_goods = grain
 life_rating = 35
@@ -13,5 +13,5 @@ state_building = {
 1836.1.2 = {
   owner = ENL
   controller = ENL
-  remove_core = DUA
+  remove_core = ARQ
 }

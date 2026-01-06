@@ -1,7 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = FRA
+owner = ARQ
+controller = ARQ
+add_core = ARQ
 trade_goods = cattle
 life_rating = 40
 naval_base = 2
@@ -9,9 +8,4 @@ state_building = {
 	level = 2
 	building = regular_clothes_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = FRA
-  controller = FRA
-  remove_core = DUA
 }

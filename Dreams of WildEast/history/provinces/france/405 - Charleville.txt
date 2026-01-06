@@ -1,11 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BRG
-add_core = LRR
+owner = SRR
+controller = SRR
+add_core = SRR
 trade_goods = coal
 life_rating = 35
-1836.1.2 = {
-  owner = LRR
-  controller = LRR
-  remove_core = BRG
-}

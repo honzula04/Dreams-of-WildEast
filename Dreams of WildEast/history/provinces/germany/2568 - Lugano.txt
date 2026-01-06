@@ -1,6 +1,5 @@
-owner = LOM
-controller = LOM
-add_core = LOM
-add_core = ITA
+owner = HAB
+controller = HAB
+add_core = HAB
 trade_goods = wool
 life_rating = 35

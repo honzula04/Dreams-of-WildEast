@@ -1,8 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
-add_core = FRA
-add_core = LRR
+owner = SRR
+controller = SRR
+add_core = SRR
 trade_goods = iron
 life_rating = 35
 state_building = {
@@ -29,9 +27,4 @@ state_building = {
 	level = 2
 	building = explosives_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = LRR
-  controller = LRR
-  remove_core = BRG
 }

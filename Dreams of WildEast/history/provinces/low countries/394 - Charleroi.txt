@@ -1,7 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
-add_core = WLL
+owner = SRR
+controller = SRR
+add_core = SRR
 trade_goods = coal
 life_rating = 35
 state_building = {
@@ -23,9 +22,4 @@ state_building = {
 	level = 2
 	building = machine_parts_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = WLL
-  controller = WLL
-  remove_core = BRG
 }
