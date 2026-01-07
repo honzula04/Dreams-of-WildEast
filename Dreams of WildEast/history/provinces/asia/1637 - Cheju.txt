@@ -1,5 +1,6 @@
-owner = JAP
-controller = JAP
+owner = TYS
+controller = TYS
+add_core = TYS
 add_core = KOR
 trade_goods = grain
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = JAP
-controller = JAP
-add_core = JAP
+owner = EZR
+controller = EZR
+add_core = EZR
 trade_goods = precious_metal
 terrain = small_island
 life_rating = 35
