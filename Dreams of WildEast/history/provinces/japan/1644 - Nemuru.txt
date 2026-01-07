@@ -1,6 +1,6 @@
-#owner = JAP
-#controller = JAP
-#add_core = JAP
+owner = EZR
+controller = EZR
+add_core = EZR
 #add_core = AIN
 trade_goods = timber
 life_rating = 35

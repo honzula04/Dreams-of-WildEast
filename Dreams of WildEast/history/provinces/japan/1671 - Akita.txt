@@ -1,5 +1,5 @@
-#owner = JAP
-#controller = JAP
-#add_core = JAP
+owner = EZR
+controller = EZR
+add_core = EZR
 trade_goods = iron
 life_rating = 35

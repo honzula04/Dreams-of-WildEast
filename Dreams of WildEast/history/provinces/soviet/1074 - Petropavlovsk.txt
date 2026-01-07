@@ -1,5 +1,6 @@
-#owner = AIN
-#controller = AIN
+owner = EZR
+controller = EZR
+add_core = EZR
 #add_core = AIN
 trade_goods = fish
 terrain = montane_tundra
