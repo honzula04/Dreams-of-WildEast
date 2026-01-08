@@ -1,10 +1,5 @@
-owner = TNG
-controller = TNG
-add_core = TAI
-add_core = TNG
-add_core = CHI
+owner = SHS
+controller = SHS
+add_core = SHS
 trade_goods = silk
 life_rating = 30
-1836.1.2 = {
-  remove_core = TAI
-}
