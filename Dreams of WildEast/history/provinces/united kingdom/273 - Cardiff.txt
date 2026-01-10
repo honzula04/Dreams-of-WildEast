@@ -1,7 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = WLS
+owner = NVR
+controller = NVR
+add_core = NVR
 trade_goods = coal
 naval_base = 1
 life_rating = 40
@@ -9,9 +8,4 @@ state_building = {
 	level = 1
 	building = steel_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = WLS
-  controller = WLS
-  remove_core = DUA
 }

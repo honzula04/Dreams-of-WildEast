@@ -1,7 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = ENL
+owner = NVR
+controller = NVR
+add_core = NVR
 trade_goods = iron
 life_rating = 40
 state_building = {
@@ -13,9 +12,4 @@ state_building = {
 	level = 3
 	building = canned_food_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = ENL
-  controller = ENL
-  remove_core = DUA
 }

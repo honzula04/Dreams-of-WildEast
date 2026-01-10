@@ -1,11 +1,5 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = WLS
+owner = NVR
+controller = NVR
+add_core = NVR
 trade_goods = iron
 life_rating = 35
-1836.1.2 = {
-  owner = WLS
-  controller = WLS
-  remove_core = DUA
-}

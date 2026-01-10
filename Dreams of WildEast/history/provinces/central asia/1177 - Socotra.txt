@@ -1,13 +1,8 @@
-owner = SPA
-controller = SPA
+owner = NVR
+controller = NVR
 add_core = YEM
 trade_goods = fish
 life_rating = 30
 terrain = semidesert
 colonial = 2
 naval_base = 1
-1836.1.2 = {
-  owner = YEM
-  controller = YEM
-  colonial = 0
-}
