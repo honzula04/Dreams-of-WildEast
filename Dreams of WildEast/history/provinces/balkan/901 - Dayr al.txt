@@ -1,17 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = HTY
-add_core = SYR
-add_core = KUR
-add_core = ASY
+owner = ANT
+controller = ANT
+add_core = ANT
 trade_goods = grain
 terrain = semidesert
 life_rating = 20
-1836.1.2 = {
-  owner = ASY
-  controller = ASY
-  remove_core = SYR
-  remove_core = TUR
-  remove_core = KUR
-}
+

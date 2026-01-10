@@ -1,5 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = SMY
+controller = SMY
+add_core = SMY
+add_core = GRE
+add_core = LTN
 trade_goods = opium
 life_rating = 35

@@ -1,13 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = PNT
-add_core = ARM
+owner = TRB
+controller = TRB
+add_core = TRB
 trade_goods = fruit
 life_rating = 35
-1836.1.2 = {
-  owner = PNT
-  controller = PNT
-  remove_core = TUR
-  remove_core = ARM
-}
+

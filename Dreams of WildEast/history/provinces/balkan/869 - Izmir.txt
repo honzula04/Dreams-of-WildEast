@@ -1,6 +1,8 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = SMY
+controller = SMY
+add_core = SMY
+add_core = GRE
+add_core = LTN
 trade_goods = sulphur
 naval_base = 1
 life_rating = 40

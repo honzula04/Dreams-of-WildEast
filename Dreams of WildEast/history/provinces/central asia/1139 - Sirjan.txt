@@ -1,7 +1,5 @@
-owner = ZND
-controller = ZND
-add_core = ZND
-add_core = PER                     
-add_core = ARY
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = iron
 life_rating = 35

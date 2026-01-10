@@ -1,11 +1,6 @@
-owner = AZB
-controller = AZB
-add_core = DAG
-add_core = AZB
+#owner = AZB
+#controller = AZB
+#add_core = DAG
+#add_core = AZB
 trade_goods = fruit
 life_rating = 35
-1836.1.2 = {
-  owner = DAG
-  controller = DAG
-  remove_core = AZB
-}
