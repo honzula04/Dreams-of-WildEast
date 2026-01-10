@@ -1,6 +1,6 @@
-owner = MOD
-controller = MOD
-add_core = MOD
+owner = RMN
+controller = RMN
+add_core = RMN
 add_core = ITA
 trade_goods = iron
 life_rating = 40

@@ -1,7 +1,5 @@
-owner = TIR
-controller = TIR
-add_core = TIR
-add_core = SGF
-add_core = GER
+owner = VER
+controller = VER
+add_core = VER
 trade_goods = grain
 life_rating = 40

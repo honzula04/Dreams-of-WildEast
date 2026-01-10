@@ -1,15 +1,7 @@
-owner = VEN
-controller = VEN
-add_core = VEN
-add_core = CRE
-add_core = GRE
-add_core = TUR
+owner = LIG
+controller = LIG
+add_core = LIG
+add_core = ITA
 trade_goods = fruit
 life_rating = 35
-1836.1.2 = {
-  owner = CRE
-  controller = CRE
-  remove_core = VEN
-  remove_core = TUR
-  remove_core = GRE
-}
+

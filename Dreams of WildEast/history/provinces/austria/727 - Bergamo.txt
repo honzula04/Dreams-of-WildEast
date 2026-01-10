@@ -1,6 +1,6 @@
-owner = LOM
-controller = LOM
-add_core = LOM
+owner = LIG
+controller = LIG
+add_core = LIG
 add_core = ITA
 trade_goods = cattle
 life_rating = 40

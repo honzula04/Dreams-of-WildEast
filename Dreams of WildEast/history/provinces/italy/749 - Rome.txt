@@ -1,6 +1,6 @@
-owner = PAP
-controller = PAP
-add_core = PAP
+owner = RMN
+controller = RMN
+add_core = RMN
 add_core = ITA
 trade_goods = grain
 naval_base = 1

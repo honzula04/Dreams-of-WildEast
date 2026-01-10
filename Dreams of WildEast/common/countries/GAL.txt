@@ -3,7 +3,7 @@
 #========================= H E A D E R =========================
 
 color = { 240  230  140 }
-graphical_culture = SpanishGC
+graphical_culture = EuropeanGC
 
 
 #========================= P A R T I E S =========================

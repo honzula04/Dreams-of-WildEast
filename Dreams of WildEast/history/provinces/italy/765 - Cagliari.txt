@@ -1,7 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = SRD
+owner = LIG
+controller = LIG
+add_core = LIG
 add_core = ITA
 trade_goods = coal
 naval_base = 1
@@ -10,9 +9,4 @@ state_building = {
 	level = 1
 	building = glass_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = SRD
-  controller = SRD
-  remove_core = ARA
 }

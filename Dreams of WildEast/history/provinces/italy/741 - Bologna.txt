@@ -1,6 +1,6 @@
-owner = FRR
-controller = FRR
-add_core = FRR
+owner = RMN
+controller = RMN
+add_core = RMN
 add_core = ITA
 trade_goods = timber
 life_rating = 40

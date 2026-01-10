@@ -1,6 +1,6 @@
-owner = SAR
-controller = SAR
-add_core = SAR
+owner = LIG
+controller = LIG
+add_core = LIG
 add_core = ITA
 trade_goods = silk
 life_rating = 35

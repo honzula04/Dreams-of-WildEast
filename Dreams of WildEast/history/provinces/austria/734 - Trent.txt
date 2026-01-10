@@ -1,6 +1,5 @@
-#owner = VEN
-#controller = VEN
-#add_core = VEN
-add_core = TIR
+owner = VER
+controller = VER
+add_core = VER
 trade_goods = grain
 life_rating = 35

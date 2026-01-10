@@ -1,12 +1,8 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = CAT
+owner = LIG
+controller = LIG
+add_core = LIG
+add_core = ITA
 trade_goods = cattle
 naval_base = 1
 life_rating = 35
-1836.1.2 = {
-  owner = CAT
-  controller = CAT
-  remove_core = ARA
-}
+

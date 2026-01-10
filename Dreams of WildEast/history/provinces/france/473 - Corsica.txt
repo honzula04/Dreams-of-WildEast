@@ -1,14 +1,7 @@
-owner = ARA
-controller = ARA
-add_core = GEN
+owner = LIG
+controller = LIG
+add_core = LIG
 add_core = ITA
-add_core = ARA
-add_core = SRD
 trade_goods = fish
 life_rating = 35
-1836.1.2 = {
-  owner = SRD
-  controller = SRD
-  remove_core = ARA
-  remove_core = GEN
-}
+

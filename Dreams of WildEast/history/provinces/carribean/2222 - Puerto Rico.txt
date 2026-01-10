@@ -1,11 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SFJ
+owner = LIG
+controller = LIG
 trade_goods = coffee
 life_rating = 40
 colonial = 2
-1836.1.2 = {
-  owner = SFJ
-  controller = SFJ
-  colonial = 0
-}
+
