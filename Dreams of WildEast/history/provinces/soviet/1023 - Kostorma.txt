@@ -1,8 +1,6 @@
-owner = MUS
-controller = MUS
-add_core = RUS
-add_core = MUS
-add_core = NOV
+owner = ILM
+controller = ILM
+add_core = ILM
 trade_goods = timber
 life_rating = 35
 1836.1.2 = {

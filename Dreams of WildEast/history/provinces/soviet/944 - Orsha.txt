@@ -1,8 +1,5 @@
-owner = BLR
-controller = BLR
-add_core = BLR
-add_core = PLC
-add_core = RUT
-add_core = RUS
+owner = ILM
+controller = ILM
+add_core = ILM
 trade_goods = grain
 life_rating = 35

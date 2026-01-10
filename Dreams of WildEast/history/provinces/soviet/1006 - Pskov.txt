@@ -1,8 +1,6 @@
-owner = PSV
-controller = PSV
-add_core = RUS
-add_core = NOV
-add_core = PSV
+owner = ILM
+controller = ILM
+add_core = ILM
 trade_goods = cattle
 life_rating = 40
 1836.1.2 = {

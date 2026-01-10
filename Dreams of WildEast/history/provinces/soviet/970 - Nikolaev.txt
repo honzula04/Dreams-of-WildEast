@@ -1,7 +1,5 @@
-owner = CRI
-controller = CRI
-add_core = CRI
-add_core = RUT
-add_core = TAR
+owner = POK
+controller = POK
+add_core = POK
 trade_goods = fish
 life_rating = 35

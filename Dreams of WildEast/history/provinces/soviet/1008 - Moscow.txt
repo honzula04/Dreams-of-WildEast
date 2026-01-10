@@ -1,7 +1,6 @@
-owner = MUS
-controller = MUS
-add_core = RUS
-add_core = MUS
+owner = POK
+controller = POK
+add_core = POK
 trade_goods = timber
 life_rating = 45
 fort = 1

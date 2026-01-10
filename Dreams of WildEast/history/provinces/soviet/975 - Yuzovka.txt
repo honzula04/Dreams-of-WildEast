@@ -1,6 +1,5 @@
-owner = CRI
-controller = CRI
-add_core = CRI
-add_core = TAR
+owner = POK
+controller = POK
+add_core = POK
 trade_goods = iron
 life_rating = 35

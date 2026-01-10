@@ -1,7 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = RUS
-add_core = NOV
+owner = ILM
+controller = ILM
+add_core = ILM
 trade_goods = timber
 terrain = forest
 naval_base = 1

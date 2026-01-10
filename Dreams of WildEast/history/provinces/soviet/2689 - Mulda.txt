@@ -1,17 +1,6 @@
-owner = NOV
-controller = NOV
-add_core = RUS
-add_core = NOV
-add_core = MUS
-add_core = SIB
-add_core = URA
+owner = ILM
+controller = ILM
+add_core = ILM
 trade_goods = precious_metal
 terrain = montane_tundra
 life_rating = 35
-1836.1.2 = {
-  owner = URA
-  controller = URA
-  remove_core = NOV
-  remove_core = MUS
-  remove_core = SIB
-}
