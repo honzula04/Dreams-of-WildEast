@@ -1,8 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = CAT
-add_core = IBR
+owner = CTH
+controller = CTH
+add_core = CTH
 trade_goods = cattle
 life_rating = 40
 naval_base = 2
@@ -16,8 +14,4 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
-1836.1.2 = {
-  owner = CAT
-  controller = CAT
-  remove_core = ARA
-}
+

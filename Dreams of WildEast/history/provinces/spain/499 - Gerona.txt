@@ -1,12 +1,6 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = CAT
-add_core = IBR
+owner = CTH
+controller = CTH
+add_core = CTH
 trade_goods = fruit
 life_rating = 35
-1836.1.2 = {
-  owner = CAT
-  controller = CAT
-  remove_core = ARA
-}
+

@@ -1,9 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = PRV
-add_core = OCC
-add_core = ARP
+owner = CTH
+controller = CTH
+add_core = CTH
 trade_goods = coal
 life_rating = 35
 railroad = 1
@@ -16,10 +13,4 @@ state_building = {
 	level = 1
 	building = steel_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = PRV
-  controller = PRV
-  remove_core = DUA
-	remove_core = OCC
 }

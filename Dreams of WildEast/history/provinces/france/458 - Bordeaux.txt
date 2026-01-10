@@ -1,7 +1,6 @@
-owner = DUA
-controller = DUA
-add_core = DUA
-add_core = OCC
+owner = CTH
+controller = CTH
+add_core = CTH
 trade_goods = fruit
 naval_base = 2
 life_rating = 40
@@ -9,9 +8,4 @@ state_building = {
 	level = 2
 	building = winery
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = OCC
-  controller = OCC
-  remove_core = DUA
 }
