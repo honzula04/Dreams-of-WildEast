@@ -1,7 +1,6 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-add_core = POL
+owner = VOL
+controller = VOL
+add_core = VOL
 trade_goods = coal
 life_rating = 40
 state_building = {
@@ -14,7 +13,4 @@ state_building = {
 	building = liquor_distillery
 	upgrade = yes
 }
-1836.1.2 = {
-	owner = POL
-	controller = POL
-}
+

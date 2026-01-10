@@ -1,15 +1,5 @@
-owner = MUS
-controller = MUS
-add_core = RUS
-add_core = MUS
-add_core = NOG
-add_core = NOV
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = cattle
 life_rating = 35
-1836.1.2 = {
-  owner = NOG
-  controller = NOG
-  remove_core = MUS
-  remove_core = SIB
-  remove_core = NOV
-}

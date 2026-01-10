@@ -1,7 +1,7 @@
-owner = CRI
-controller = CRI
-add_core = CRI
+owner = TAR
+controller = TAR
 add_core = TAR
+add_core = POK
 trade_goods = fish
 life_rating = 40
 naval_base = 2

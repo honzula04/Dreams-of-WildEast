@@ -1,6 +1,5 @@
-owner = MUS
-controller = MUS
-add_core = RUS
-add_core = MUS
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = grain
 life_rating = 35

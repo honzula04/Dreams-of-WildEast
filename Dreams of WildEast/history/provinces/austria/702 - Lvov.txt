@@ -1,11 +1,5 @@
-owner = PLC
-controller = PLC
-add_core = PLC
-add_core = POL
-add_core = RUT
+owner = VOL
+controller = VOL
+add_core = VOL
 trade_goods = coal
 life_rating = 35
-1836.1.2 = {
-  owner = POL
-  controller = POL
-}

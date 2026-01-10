@@ -1,14 +1,5 @@
-owner = ASK
-controller = ASK
-add_core = ASK
-add_core = AZB
-add_core = RUS
-add_core = DAG
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = silk
 life_rating = 35
-1836.1.2 = {
-  owner = DAG
-  controller = DAG
-  remove_core = ASK
-  remove_core = AZB
-}

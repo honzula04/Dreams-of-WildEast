@@ -1,5 +1,5 @@
-#owner = BOH
-#controller = BOH
-#add_core = BOH
+owner = VOL
+controller = VOL
+add_core = VOL
 trade_goods = coal
 life_rating = 40

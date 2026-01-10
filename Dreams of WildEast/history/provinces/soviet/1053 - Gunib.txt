@@ -1,8 +1,5 @@
-#owner = AZB
-#controller = AZB
-#add_core = AZB
-#add_core = ASK
-#add_core = RUS
-#add_core = DAG
+owner = TAR
+controller = TAR
+add_core = TAR
 trade_goods = silk
 life_rating = 35
