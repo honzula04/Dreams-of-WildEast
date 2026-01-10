@@ -1,8 +1,8 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = CAT
-add_core = IBR
+owner = ANL
+controller = ANL
+add_core = ANL
+add_core = AST
+add_core = SPA
 trade_goods = fruit
 naval_base = 2
 life_rating = 40
@@ -16,8 +16,4 @@ state_building = {
 	building = winery
 	upgrade = yes
 }
-1836.1.2 = {
-  owner = CAT
-  controller = CAT
-  remove_core = ARA
-}
+

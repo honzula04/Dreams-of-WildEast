@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
+owner = ASU
+controller = ASU
 add_core = SPA
-add_core = IBR
+add_core = ASU
 trade_goods = iron
 life_rating = 40

@@ -1,8 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = POR
-add_core = SPA
-add_core = IBR
+owner = ANL
+controller = ANL
+add_core = ANL
+add_core = GAL
 trade_goods = grain
 life_rating = 40
 naval_base = 2
@@ -17,8 +16,4 @@ state_building = {
 	building = canned_food_factory
   upgrade = yes
 }
-1836.1.2 = {
-	owner = POR
-	controller = POR
-	remove_core = SPA
-}
+

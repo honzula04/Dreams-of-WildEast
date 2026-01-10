@@ -1,6 +1,6 @@
-owner = NAV
-controller = NAV
-add_core = NAV
-add_core = IBR
+owner = ASU
+controller = ASU
+add_core = SPA
+add_core = ASU
 trade_goods = iron
 life_rating = 35

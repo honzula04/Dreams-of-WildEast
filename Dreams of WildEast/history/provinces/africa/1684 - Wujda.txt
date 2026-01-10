@@ -1,11 +1,7 @@
-owner = ARA
-controller = ARA
-add_core = MGH
+owner = ANL
+controller = ANL
+add_core = ANL
 trade_goods = grain
 life_rating = 30
 colonial = 2
-1836.1.2 = {
-  owner = MGH
-  controller = MGH
-  colonial = 0
-}
+

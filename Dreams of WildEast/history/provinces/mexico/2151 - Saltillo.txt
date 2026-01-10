@@ -1,10 +1,5 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = MEX
+owner = GAL
+controller = GAL
 trade_goods = dye
 life_rating = 35
-1836.1.2 = {
-  owner = MEX
-  controller = MEX
-}
+

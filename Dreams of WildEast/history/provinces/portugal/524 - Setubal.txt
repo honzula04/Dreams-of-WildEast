@@ -1,12 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = POR
-add_core = SPA
-add_core = IBR
+owner = ANL
+controller = ANL
+add_core = ANL
+add_core = GAL
 trade_goods = fish
 life_rating = 35
-1836.1.2 = {
-	owner = POR
-	controller = POR
-	remove_core = SPA
-}
+

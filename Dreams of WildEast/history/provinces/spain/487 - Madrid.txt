@@ -1,7 +1,7 @@
-owner = SPA
-controller = SPA
+owner = ASU
+controller = ASU
 add_core = SPA
-add_core = IBR
+add_core = ASU
 trade_goods = cattle
 life_rating = 40
 fort = 1

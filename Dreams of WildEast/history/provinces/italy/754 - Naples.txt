@@ -1,6 +1,5 @@
-owner = ARA
-controller = ARA
-add_core = ARA
+owner = SIC
+controller = SIC
 add_core = ITA
 add_core = SIC
 trade_goods = fish
@@ -11,8 +10,4 @@ state_building = {
 	building = canned_food_factory
 	upgrade = yes
 }
-1836.1.2 = {
-  owner = SIC
-  controller = SIC
-  remove_core = ARA
-}
+
