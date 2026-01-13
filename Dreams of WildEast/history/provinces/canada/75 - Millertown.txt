@@ -1,6 +1,6 @@
-owner = VIN
-controller = VIN
-add_core = VIN
+owner = CLT
+controller = CLT
+add_core = CLT
 trade_goods = iron
 terrain = forest
 life_rating = 40
