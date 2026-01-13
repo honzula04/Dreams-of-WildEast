@@ -10,9 +10,3 @@ state_building = {
 	building = lumber_mill
 	upgrade = yes
 }
-1836.1.2 = {
-	owner = TAP
-	controller = TAP
-	remove_core = AMA
-  colonial = 0
-}

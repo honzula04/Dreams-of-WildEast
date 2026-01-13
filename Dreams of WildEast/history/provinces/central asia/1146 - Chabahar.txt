@@ -3,8 +3,3 @@ controller = PER
 add_core = PER
 trade_goods = fish
 life_rating = 35
-1836.1.2 = {
-  owner = BLC
-  controller = BLC
-  remove_core = ZND
-}

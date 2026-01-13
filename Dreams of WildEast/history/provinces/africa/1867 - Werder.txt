@@ -5,6 +5,3 @@ add_core = ADA
 terrain = dryhills
 trade_goods = grain
 life_rating = 35
-1836.1.2 = {
-  remove_core = ETH
-}

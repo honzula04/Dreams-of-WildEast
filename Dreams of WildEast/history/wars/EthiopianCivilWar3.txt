@@ -23,7 +23,3 @@ name = "Ethiopian Civil War"
 
 }
 
-1836.1.2 = {
-	rem_attacker = ETH
-	rem_defender = ADA
-}

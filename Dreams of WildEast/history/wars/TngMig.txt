@@ -18,7 +18,3 @@ name = "Phoenix Invasion"
 
 }
 
-1836.1.2 = {
-	rem_attacker = TNG
-  rem_defender = MIG
-}

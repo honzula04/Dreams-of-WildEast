@@ -5,8 +5,3 @@ add_core = HND
 add_core = LAD
 trade_goods = wool
 life_rating = 30
-1836.1.2 = {
-  owner = LAD
-  controller = LAD
-  remove_core = KAS
-}

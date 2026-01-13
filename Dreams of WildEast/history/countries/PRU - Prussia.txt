@@ -6,9 +6,6 @@ plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.70
 non_state_culture_literacy = 0.30
-1836.1.2 = {
-	culture = polish
-}
 civilized = yes
 prestige = 0
 

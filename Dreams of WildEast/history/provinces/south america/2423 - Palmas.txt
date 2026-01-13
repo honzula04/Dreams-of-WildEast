@@ -9,8 +9,3 @@ state_building = {
 	building = luxury_furniture_factory
 	upgrade = yes
 }
-1836.1.2 = {
-	owner = EQN
-	controller = EQN
-	remove_core = AMA
-}

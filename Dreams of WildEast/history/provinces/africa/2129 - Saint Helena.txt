@@ -5,7 +5,3 @@ life_rating = 30
 colonial = 2
 naval_base = 1
 terrain = small_island
-1836.1.2 = {
-  owner = WLS
-  controller = WLS
-}

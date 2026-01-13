@@ -5,8 +5,3 @@ add_core = HYD
 add_core = DRA
 trade_goods = cattle
 life_rating = 30
-1836.1.2 = {
-  owner = HYD
-  controller = HYD
-  remove_core = VIJ
-}

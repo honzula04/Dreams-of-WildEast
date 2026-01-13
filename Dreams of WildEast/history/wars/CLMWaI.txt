@@ -21,7 +21,3 @@ name = "Colombian War of Independence"
 	}
 }
 
-1836.1.2 = {
-	rem_attacker = SPA
-	rem_defender = CLM
-}
