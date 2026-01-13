@@ -1,6 +1,6 @@
-owner = VIN
-controller = VIN
-add_core = VIN
+owner = NVR
+controller = NVR
+add_core = NVR
 naval_base = 2
 trade_goods = grain
 life_rating = 40

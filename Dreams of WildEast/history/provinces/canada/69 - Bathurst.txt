@@ -1,5 +1,5 @@
-owner = VIN
-controller = VIN
-add_core = VIN
+owner = NVR
+controller = NVR
+add_core = NVR
 trade_goods = cattle
 life_rating = 35

@@ -1,13 +1,5 @@
-owner = NBG
-controller = NBG
-add_core = NBG
-add_core = IRO
-add_core = VIN
+owner = ABN
+controller = ABN
+add_core = ABN
 trade_goods = timber
 life_rating = 35
-1836.1.2 = {
-  owner = IRO
-  controller = IRO
-  remove_core = VIN
-  remove_core = NBG
-}

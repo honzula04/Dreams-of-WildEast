@@ -1,16 +1,9 @@
-owner = VEN
-
-controller = VEN
-
-add_core = ATS
+owner = NDS
+controller = NDS
+add_core = NDS
 
 trade_goods = fruit
 
 life_rating = 35
 
 colonial = 2
-1836.1.2 = {
-  owner = ATS
-  controller = ATS
-  colonial = 0
-}

@@ -1,3 +1,5 @@
-add_core = PLA
+owner = NVR
+controller = NVR
+add_core = NVR
 trade_goods = cattle
 life_rating = 35

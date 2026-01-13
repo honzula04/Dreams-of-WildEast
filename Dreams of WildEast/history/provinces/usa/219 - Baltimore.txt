@@ -1,6 +1,6 @@
-owner = NBG
-controller = NBG
-add_core = NBG
+owner = ABN
+controller = ABN
+add_core = ABN
 
 trade_goods = tobacco
 life_rating = 40

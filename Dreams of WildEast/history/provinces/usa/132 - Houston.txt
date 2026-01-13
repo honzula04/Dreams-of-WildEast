@@ -1,13 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = LST
-add_core = PLA
+owner = RDF
+controller = RDF
+add_core = RDF
 naval_base = 1
 trade_goods = cattle
 life_rating = 40
-1836.1.2 = {
-  owner = LST
-  controller = LST
-  remove_core = PLA
-}

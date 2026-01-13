@@ -1,12 +1,6 @@
-owner = PLA
-controller = PLA
-add_core = PLA
-add_core = NBG
+owner = RDF
+controller = RDF
+add_core = RDF
 
 trade_goods = coal
 life_rating = 35
-1836.1.2 = {
-  owner = NBG
-  controller = NBG
-  remove_core = PLA
-}

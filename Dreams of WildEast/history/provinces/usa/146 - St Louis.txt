@@ -1,6 +1,6 @@
-owner = PLA
-controller = PLA
-add_core = PLA
+owner = RDF
+controller = RDF
+add_core = RDF
 trade_goods = cattle
 life_rating = 40
 colonial = 2

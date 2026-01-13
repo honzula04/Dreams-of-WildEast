@@ -1,9 +1,5 @@
-owner = PLA
-controller = PLA
-add_core = PLA
-add_core = NBG
+owner = NDS
+controller = NDS
+add_core = NDS
 trade_goods = tobacco
 life_rating = 35
-1836.1.2 = {
-  remove_core = NBG
-}

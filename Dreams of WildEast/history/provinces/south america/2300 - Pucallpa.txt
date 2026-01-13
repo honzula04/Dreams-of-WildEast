@@ -1,4 +1,6 @@
-add_core = TAP
+owner = INC
+controller = INC
+add_core = INC
 trade_goods = wool
 terrain = jungle
 life_rating = 15
