@@ -1,6 +1,6 @@
-#owner = BOH
-#controller = BOH
-#add_core = BOH
+owner = BRA
+controller = BRA
+add_core = BRA
 
 trade_goods = cattle
 life_rating = 40

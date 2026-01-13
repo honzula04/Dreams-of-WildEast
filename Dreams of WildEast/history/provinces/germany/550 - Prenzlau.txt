@@ -1,5 +1,5 @@
-#owner = BOH
-#controller = BOH
-#add_core = BOH
+owner = HAN
+controller = HAN
+add_core = HAN
 trade_goods = cattle
 life_rating = 38

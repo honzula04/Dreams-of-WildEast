@@ -1,7 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
-add_core = LUX
+owner = FRH
+controller = FRH
+add_core = FRH
 trade_goods = iron
 life_rating = 40
 state_building = {
@@ -19,8 +18,4 @@ state_building = {
 	building = machine_parts_factory
 	upgrade = yes
 }
-1836.1.2 = {
-  owner = LUX
-  controller = LUX
-  remove_core = BRG
-}
+

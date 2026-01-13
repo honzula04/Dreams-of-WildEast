@@ -1,12 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = ICL
-add_core = SCA
+owner = NOR
+controller = NOR
+add_core = NOR
 trade_goods = fish
 life_rating = 30
 terrain = small_island
-1836.1.2 = {
-	owner = ICL
-	controller = ICL
-	remove_core = SCA
-}

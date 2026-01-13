@@ -1,5 +1,5 @@
-#owner = BAV
-#controller = BAV
-#add_core = BAV
+owner = BAD
+controller = BAD
+add_core = BAD
 trade_goods = timber
 life_rating = 38

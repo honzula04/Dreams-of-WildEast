@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = NET
+controller = NET
 add_core = NET
 trade_goods = cattle
 life_rating = 40
@@ -13,9 +12,4 @@ state_building = {
 	level = 2
 	building = canned_food_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = NET
-  controller = NET
-  remove_core = BRG
 }

@@ -1,7 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
-add_core = FLA
+owner = NET
+controller = NET
+add_core = NET
 trade_goods = cattle
 life_rating = 40
 railroad = 1
@@ -25,9 +24,4 @@ state_building = {
 	level = 2
 	building = furniture_factory
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = FLA
-  controller = FLA
-  remove_core = BRG
 }

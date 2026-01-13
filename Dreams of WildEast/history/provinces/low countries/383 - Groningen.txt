@@ -1,6 +1,5 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = NET
+controller = NET
 add_core = NET
 naval_base = 2
 trade_goods = grain
@@ -9,9 +8,4 @@ state_building = {
 	level = 1
 	building = clipper_shipyard
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = NET
-  controller = NET
-  remove_core = BRG
 }

@@ -1,11 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = CLT
+controller = CLT
+add_core = CLT
 add_core = SCO
 trade_goods = wool
 life_rating = 35
-1836.1.2 = {
-  owner = SCO
-  controller = SCO
-  remove_core = SCA
-}

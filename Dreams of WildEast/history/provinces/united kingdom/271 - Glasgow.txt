@@ -1,6 +1,6 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = CLT
+controller = CLT
+add_core = CLT
 add_core = SCO
 trade_goods = coal
 naval_base = 2
@@ -24,9 +24,4 @@ state_building = {
 	level = 6
 	building = clipper_shipyard
 	upgrade = yes
-}
-1836.1.2 = {
-  owner = SCO
-  controller = SCO
-  remove_core = SCA
 }

@@ -1,6 +1,7 @@
-#owner = BOH
-#controller = BOH
-#add_core = BOH
+owner = PSN
+controller = PSN
+add_core = PSN
+add_core = PLC
 trade_goods = grain
 life_rating = 38
 state_building = {
