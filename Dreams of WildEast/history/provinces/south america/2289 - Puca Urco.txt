@@ -1,11 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = GRA
-add_core = TAP
+owner = INC
+controller = INC
+add_core = INC
 trade_goods = timber
 life_rating = 20
 colonial = 2
-1835.1.1 = {
-	controller = SPA
-}

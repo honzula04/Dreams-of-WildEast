@@ -1,5 +1,5 @@
-owner = VEN
-controller = VEN
+owner = NET
+controller = NET
 add_core = ATS
 trade_goods = cotton
 life_rating = 35

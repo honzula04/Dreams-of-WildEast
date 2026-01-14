@@ -1,10 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = GRA
+owner = CLB
+controller = CLB
+add_core = CLB
 trade_goods = coal
 terrain = montane_forest
 life_rating = 35
-1835.1.1 = {
-	controller = SPA
-}

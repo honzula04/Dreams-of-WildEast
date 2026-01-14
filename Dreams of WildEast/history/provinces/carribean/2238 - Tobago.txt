@@ -1,6 +1,6 @@
-owner = KRL
-controller = KRL
-add_core = UBD
+owner = CLB
+controller = CLB
+add_core = CLB
 trade_goods = cotton
 life_rating = 35
 colonial = 2

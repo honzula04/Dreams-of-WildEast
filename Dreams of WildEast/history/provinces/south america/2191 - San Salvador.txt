@@ -1,7 +1,6 @@
-owner = CLM
-controller = CLM
+owner = UCA
+controller = UCA
 add_core = UCA
-add_core = CLM
 trade_goods = coffee
-naval_base = 1
+
 life_rating = 40

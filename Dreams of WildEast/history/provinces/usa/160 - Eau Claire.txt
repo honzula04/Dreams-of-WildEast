@@ -1,6 +1,5 @@
 owner = NVR
 controller = NVR
-add_core = NVR
 trade_goods = iron
 life_rating = 35
 colonial = 2

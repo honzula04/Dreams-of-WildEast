@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = ARQ
+controller = ARQ
 add_core = CUB
 trade_goods = fruit
 life_rating = 30

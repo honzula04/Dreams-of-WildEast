@@ -1,6 +1,5 @@
 owner = CLT
 controller = CLT
-add_core = CLT
 naval_base = 1
 trade_goods = fish
 terrain = forest

@@ -1,6 +1,5 @@
-owner = DNG
-controller = DNG
-add_core = DNG
+owner = EZR
+controller = EZR
 naval_base = 1
 trade_goods = coal
 life_rating = 35

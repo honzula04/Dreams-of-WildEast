@@ -1,6 +1,5 @@
-owner = DNG
-controller = DNG
-add_core = DNG
+owner = EZR
+controller = EZR
 trade_goods = timber
 terrain = new_world_montane_tundra
 life_rating = 20

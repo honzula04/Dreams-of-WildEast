@@ -1,11 +1,6 @@
-owner = CLM
-
-controller = CLM
-
+owner = UCA
+controller = UCA
 add_core = UCA
-
-add_core = CLM
-
 trade_goods = fruit
 
 life_rating = 35

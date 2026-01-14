@@ -1,6 +1,6 @@
-owner = GEN
-controller = GEN
-add_core = GUY
+owner = CLB
+controller = CLB
+add_core = CLB
 trade_goods = fruit
 terrain = jungle
 life_rating = 35

@@ -1,5 +1,4 @@
-owner = DNG
-controller = DNG
-add_core = DNG
+owner = EZR
+controller = EZR
 trade_goods = fish
 life_rating = 35

@@ -1,6 +1,4 @@
-owner = DNG
-controller = DNG
-add_core = DNG
+add_core = SHN
 
 trade_goods = cattle
 

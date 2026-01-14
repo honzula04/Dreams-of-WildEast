@@ -1,7 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = LST
+owner = SHN
+controller = SHN
+add_core = SHN
 terrain = new_world_semidesert
 trade_goods = fish
 life_rating = 35

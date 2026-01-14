@@ -1,11 +1,6 @@
-owner = CLM
-
-controller = CLM
-
-add_core = CLM
-
-add_core = LST
-add_core = DIN
+owner = SHN
+controller = SHN
+add_core = SHN
 trade_goods = grain
 life_rating = 35
 

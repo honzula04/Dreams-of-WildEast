@@ -1,8 +1,4 @@
-owner = CLM
-controller = CLM
-add_core = CLM
-add_core = LST
-add_core = PLA
+
 trade_goods = cattle
 life_rating = 40
-fort = 1
+

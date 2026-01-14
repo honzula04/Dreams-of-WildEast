@@ -1,6 +1,5 @@
 owner = NVR
 controller = NVR
-add_core = NVR
 trade_goods = timber
 life_rating = 35
 

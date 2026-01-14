@@ -1,4 +1,5 @@
-owner = GAL
-controller = GAL
+owner = UCA
+controller = UCA
+add_core = UCA
 trade_goods = wool
 life_rating = 35
