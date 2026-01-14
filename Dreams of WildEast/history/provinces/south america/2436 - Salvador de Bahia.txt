@@ -1,6 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
+owner = AMJ
+controller = AMJ
+add_core = AMJ
 trade_goods = iron
 naval_base = 1
 life_rating = 40

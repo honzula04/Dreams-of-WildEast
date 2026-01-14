@@ -1,6 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
+owner = AMJ
+controller = AMJ
+add_core = AMJ
 trade_goods = cattle
 terrain = new_world_semidesert
 life_rating = 35

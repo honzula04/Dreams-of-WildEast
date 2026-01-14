@@ -1,5 +1,5 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = AMJ
+controller = AMJ
+add_core = AMJ
 trade_goods = tropical_wood
 life_rating = 35

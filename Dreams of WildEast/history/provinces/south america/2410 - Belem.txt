@@ -1,8 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
-add_core = EQN
-add_core = TAP
+owner = AMJ
+controller = AMJ
+add_core = AMJ
 trade_goods = fish
 life_rating = 35
 state_building = {

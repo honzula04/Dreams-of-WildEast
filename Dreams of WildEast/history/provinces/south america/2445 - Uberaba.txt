@@ -1,6 +1,6 @@
-owner = LOT
-controller = LOT
-add_core = LOT
+owner = AMJ
+controller = AMJ
+add_core = AMJ
 trade_goods = fruit
 terrain = jungle
 life_rating = 35

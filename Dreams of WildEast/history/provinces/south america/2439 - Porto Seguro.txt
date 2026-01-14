@@ -1,6 +1,6 @@
-owner = AMA
-controller = AMA
-add_core = AMA
+owner = AMJ
+controller = AMJ
+add_core = AMJ
 trade_goods = coffee
 terrain = savanna
 life_rating = 35

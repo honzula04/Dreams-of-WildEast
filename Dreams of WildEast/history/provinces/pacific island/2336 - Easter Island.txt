@@ -1,6 +1,5 @@
-owner = RAP
-controller = RAP
-add_core = RAP
+owner = LIG
+controller = LIG
 trade_goods = fish
 life_rating = 35
 terrain = new_world_plains

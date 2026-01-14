@@ -1,10 +1,6 @@
-owner = LOT
-
-controller = LOT
-
-add_core = LOT
-
-
+owner = SUR
+controller = SUR
+add_core = SUR
 trade_goods = cattle
 
 life_rating = 35
