@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = LIG
+controller = LIG
 add_core = DRA
 add_core = VIJ
 add_core = BHO

@@ -1,5 +1,5 @@
-owner = DUA
-controller = DUA
+owner = CLB
+controller = CLB
 trade_goods = coffee
 life_rating = 30
 colonial = 2

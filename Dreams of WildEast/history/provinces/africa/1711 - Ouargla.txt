@@ -1,5 +1,5 @@
-owner = MGH
-controller = MGH
-add_core = MGH
+owner = UMA
+controller = UMA
+add_core = UMA
 trade_goods = wool
 life_rating = 10

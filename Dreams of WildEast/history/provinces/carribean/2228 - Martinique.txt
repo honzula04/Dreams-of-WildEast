@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = GAL
+controller = GAL
 trade_goods = cotton
 life_rating = 35
 colonial = 2

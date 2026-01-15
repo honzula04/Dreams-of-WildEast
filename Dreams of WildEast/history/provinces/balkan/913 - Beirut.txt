@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = UMA
+controller = UMA
+add_core = UMA
 add_core = SYR
 add_core = LBN
 trade_goods = silk

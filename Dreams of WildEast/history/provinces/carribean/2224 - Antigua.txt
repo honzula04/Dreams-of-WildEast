@@ -1,5 +1,5 @@
-owner = ARA
-controller = ARA
+owner = LIG
+controller = LIG
 trade_goods = fruit
 life_rating = 30
 colonial = 2

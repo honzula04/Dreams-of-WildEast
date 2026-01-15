@@ -1,5 +1,5 @@
-owner = DUA
-controller = DUA
+owner = ARQ
+controller = ARQ
 trade_goods = tobacco
 life_rating = 30
 colonial = 2

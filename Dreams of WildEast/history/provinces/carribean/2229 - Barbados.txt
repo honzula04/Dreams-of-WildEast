@@ -1,5 +1,5 @@
-owner = KRL
-controller = KRL
+owner = CTH
+controller = CTH
 add_core = UBD
 trade_goods = tobacco
 life_rating = 35

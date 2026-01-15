@@ -1,6 +1,6 @@
-owner = TRN
-controller = TRN
-add_core = TRN
+owner = TSW
+controller = TSW
+add_core = TSW
 add_core = BSH
 add_core = BTV
 add_core = SAF

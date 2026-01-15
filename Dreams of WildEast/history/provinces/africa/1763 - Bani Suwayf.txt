@@ -1,6 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
+owner = UMA
+controller = UMA
+add_core = UMA
 trade_goods = grain
 life_rating = 40
 terrain = farmlands

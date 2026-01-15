@@ -1,6 +1,4 @@
-owner = GRQ
-controller = GRQ
-add_core = GRQ
+
 terrain = savanna
 trade_goods = grain
 life_rating = 35

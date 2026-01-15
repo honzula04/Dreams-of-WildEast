@@ -1,7 +1,6 @@
 owner = LIG
 controller = LIG
-add_core = LIG
-add_core = ITA
+add_core = GRE
 trade_goods = grain
 life_rating = 35
 terrain = small_island

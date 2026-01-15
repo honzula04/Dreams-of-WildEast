@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = ARQ
+controller = ARQ
 add_core = SFJ
 colonial = 2
 trade_goods = coffee

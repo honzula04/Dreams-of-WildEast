@@ -1,5 +1,5 @@
-owner = DUA
-controller = DUA
+owner = ARQ
+controller = ARQ
 add_core = SRL
 trade_goods = coffee
 life_rating = 30

@@ -1,6 +1,5 @@
-owner = NFL
-controller = NFL
-add_core = NFL
+owner = NET
+controller = NET
 add_core = MAT
 add_core = BTV
 add_core = SAF

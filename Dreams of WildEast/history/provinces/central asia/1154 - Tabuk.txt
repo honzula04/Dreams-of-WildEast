@@ -1,5 +1,6 @@
-owner = HDJ
-controller = HDJ
+owner = UMA
+controller = UMA
+add_core = UMA
 add_core = HDJ
 add_core = NEJ
 trade_goods = wool

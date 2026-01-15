@@ -1,5 +1,5 @@
-owner = SCA
-controller = SCA
+owner = LIG
+controller = LIG
 trade_goods = cotton
 life_rating = 30
 colonial = 2

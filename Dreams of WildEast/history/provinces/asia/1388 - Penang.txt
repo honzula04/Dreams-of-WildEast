@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = NET
+controller = NET
 add_core = JOH
 add_core = NUS
 trade_goods = precious_goods

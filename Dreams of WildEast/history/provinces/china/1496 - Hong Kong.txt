@@ -1,5 +1,5 @@
-owner = TNG
-controller = TNG
+owner = ARQ
+controller = ARQ
 add_core = TNG
 add_core = TAI
 add_core = CHI

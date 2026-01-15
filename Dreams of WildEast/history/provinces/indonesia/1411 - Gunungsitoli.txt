@@ -1,5 +1,5 @@
-owner = PLM
-controller = PLM
+owner = LIG
+controller = LIG
 add_core = NUS
 add_core = PLM
 trade_goods = fish

@@ -1,5 +1,5 @@
-owner = TNG
-controller = TNG
+owner = LIG
+controller = LIG
 add_core = TON
 trade_goods = fish
 life_rating = 35

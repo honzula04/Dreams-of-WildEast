@@ -1,3 +1,5 @@
+owner = NVR
+controller = NVR
 add_core = NAN
 trade_goods = fish
 life_rating = 30

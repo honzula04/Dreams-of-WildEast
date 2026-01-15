@@ -1,5 +1,5 @@
-owner = XHO
-controller = XHO
+owner = ARQ
+controller = ARQ
 add_core = XHO
 add_core = BTV
 add_core = SAF

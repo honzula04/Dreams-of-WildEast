@@ -1,6 +1,5 @@
-owner = GRQ
-controller = GRQ
-add_core = GRQ
+owner = TSW
+controller = TSW
 add_core = TSW
 trade_goods = grain
 terrain = steppe

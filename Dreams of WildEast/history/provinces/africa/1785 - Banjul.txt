@@ -1,5 +1,5 @@
-owner = KRL
-controller = KRL
+owner = LIG
+controller = LIG
 add_core = FJA
 trade_goods = fruit
 life_rating = 35

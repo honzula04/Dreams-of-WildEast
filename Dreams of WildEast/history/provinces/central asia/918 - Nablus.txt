@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
+owner = UMA
+controller = UMA
+add_core = UMA
 add_core = EGY
 add_core = TUR
 add_core = PLS

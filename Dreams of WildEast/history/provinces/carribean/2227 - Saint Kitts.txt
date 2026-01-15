@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = LIG
+controller = LIG
 trade_goods = cotton
 life_rating = 30
 colonial = 2

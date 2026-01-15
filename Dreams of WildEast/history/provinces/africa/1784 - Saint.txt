@@ -1,5 +1,5 @@
-owner = VEN
-controller = VEN
+owner = RMN
+controller = RMN
 add_core = FJA
 trade_goods = fruit
 terrain = semidesert

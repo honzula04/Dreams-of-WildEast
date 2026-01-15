@@ -1,5 +1,5 @@
-owner = ZUL
-controller = ZUL
+owner = ARQ
+controller = ARQ
 add_core = ZUL
 add_core = XHO
 add_core = BTV

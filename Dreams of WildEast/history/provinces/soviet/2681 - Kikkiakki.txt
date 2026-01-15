@@ -1,5 +1,5 @@
-owner = TNG
-controller = TNG
+owner = ARQ
+controller = ARQ
 add_core = TNG
 trade_goods = tea
 terrain = plains

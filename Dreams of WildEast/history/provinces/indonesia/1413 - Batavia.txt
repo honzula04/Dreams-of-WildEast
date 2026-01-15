@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = NET
+controller = NET
 add_core = JAV
 add_core = NUS
 trade_goods = coffee

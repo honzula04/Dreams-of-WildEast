@@ -1,5 +1,5 @@
-controller = GEN
-owner = GEN
+owner = NVR
+controller = NVR
 add_core = MDR
 add_core = DRA
 trade_goods = precious_goods

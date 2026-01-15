@@ -1,5 +1,5 @@
-owner = LWE
-controller = LWE
+owner = CLT
+controller = CLT
 add_core = LWE
 add_core = BTV
 add_core = SAF

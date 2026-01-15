@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = NVR
+controller = NVR
 add_core = ZAN
 colonial = 2
 trade_goods = grain

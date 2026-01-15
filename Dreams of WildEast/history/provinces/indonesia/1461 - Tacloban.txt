@@ -1,5 +1,5 @@
-owner = TON
-controller = TON
+owner = LIG
+controller = LIG
 add_core = TON
 add_core = SUL
 trade_goods = grain

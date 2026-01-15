@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = NVR
+controller = NVR
 add_core = ZAN
 trade_goods = fish
 terrain = savanna

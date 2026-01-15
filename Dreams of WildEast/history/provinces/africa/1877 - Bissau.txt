@@ -1,5 +1,5 @@
-owner = FJA
-controller = FJA
+owner = PRV
+controller = PRV
 add_core = FJA
 trade_goods = fish
 life_rating = 30

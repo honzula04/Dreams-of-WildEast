@@ -1,5 +1,6 @@
-owner = FUN
-controller = FUN
+owner = UMA
+controller = UMA
+add_core = UMA
 add_core = FUN
 add_core = EGY
 trade_goods = fruit
