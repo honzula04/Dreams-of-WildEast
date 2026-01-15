@@ -1,5 +1,6 @@
-#owner = SLV
-#controller = SLV
-#add_core = SLV
+owner = SLV
+controller = SLV
+add_core = SLV
+add_core = SER
 trade_goods = fruit
 life_rating = 35

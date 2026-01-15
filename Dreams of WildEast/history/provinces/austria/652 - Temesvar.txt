@@ -1,5 +1,6 @@
-#owner = HUN
-#controller = HUN
-#add_core = SIE
+owner = SER
+controller = SER
+add_core = SER
+add_core = SLV
 trade_goods = grain
 life_rating = 35
