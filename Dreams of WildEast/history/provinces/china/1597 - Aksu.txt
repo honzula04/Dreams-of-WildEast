@@ -1,6 +1,5 @@
-owner = CHG
-controller = CHG
-add_core = CHG
-add_core = UGH
+owner = GBS
+controller = GBS
+add_core = GBS
 trade_goods = sulphur
 life_rating = 35

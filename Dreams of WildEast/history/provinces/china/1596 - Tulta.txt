@@ -1,5 +1,5 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = GBS
+controller = GBS
+add_core = GBS
 trade_goods = cotton
 life_rating = 35
