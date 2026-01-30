@@ -1,6 +1,6 @@
-owner = ANT
-controller = ANT
-add_core = ANT
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 trade_goods = fruit
 life_rating = 35
 

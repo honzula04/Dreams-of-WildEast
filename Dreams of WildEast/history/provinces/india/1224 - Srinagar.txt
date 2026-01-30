@@ -1,5 +1,6 @@
-owner = KAS
-controller = KAS
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = PNJ
 add_core = KAS
 add_core = HND

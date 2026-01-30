@@ -1,5 +1,6 @@
-owner = MIG
-controller = MIG
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = MIG
 add_core = TNG
 add_core = CHI

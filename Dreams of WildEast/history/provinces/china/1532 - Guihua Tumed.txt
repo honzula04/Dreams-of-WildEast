@@ -1,5 +1,6 @@
-owner = CHG
-controller = CHG
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = CHG
 add_core = MGL
 trade_goods = coal

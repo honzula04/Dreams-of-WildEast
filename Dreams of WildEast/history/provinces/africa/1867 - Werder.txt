@@ -1,7 +1,6 @@
-owner = ADA
-controller = ADA
+owner = ETH
+controller = ETH
 add_core = ETH
-add_core = ADA
 terrain = dryhills
 trade_goods = grain
 life_rating = 35

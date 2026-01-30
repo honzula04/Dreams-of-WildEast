@@ -1,5 +1,6 @@
-owner = AZB
-controller = AZB
+owner = GEO
+controller = GEO
+add_core = GEO
 add_core = ARY
 add_core = KUR
 add_core = AZB

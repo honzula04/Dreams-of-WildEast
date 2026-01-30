@@ -1,7 +1,6 @@
-owner = ADA
-controller = ADA
+owner = ETH
+controller = ETH
 add_core = ETH
-add_core = ADA
 trade_goods = cotton
 terrain = semidesert
 life_rating = 30

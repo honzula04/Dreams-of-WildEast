@@ -1,6 +1,5 @@
-owner = AMT
-controller = AMT
-add_core = AMT
+owner = ETH
+controller = ETH
 add_core = ETH
 trade_goods = cattle
 terrain = semidesert

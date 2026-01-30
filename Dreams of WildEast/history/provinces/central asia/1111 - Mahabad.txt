@@ -1,5 +1,6 @@
-owner = AZB
-controller = AZB
+owner = IRQ
+controller = IRQ
+add_core = IRQ
 add_core = AZB
 add_core = ARY
 trade_goods = wool

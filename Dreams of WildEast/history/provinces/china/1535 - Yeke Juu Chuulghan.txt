@@ -1,6 +1,6 @@
-owner = CHG
-controller = CHG
-add_core = CHG
+owner = TAI
+controller = TAI
+add_core = TAI
 add_core = MGL
 trade_goods = timber
 life_rating = 35
