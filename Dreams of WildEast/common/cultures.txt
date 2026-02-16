@@ -60,36 +60,6 @@ italian = {
 	union = ITA
 }
 
-iberian = {
-	leader = southamerican
-	unit = SpanishGC
-	basque = {
-		color = { 220 170 30 }
-		radicalism = 15
-		first_names = { Agustn Aitor Alberto Ander Andoni Andrs ngel Antonio Arturo Carlos Ceferino Cosme Cristobal Damin Endika "Francisco Javier" Ignacio Imanol Iaki Jess Jon "Jos Antonio" "Jos Mara" Joseba Josu Juan Julen Koldobika Luis Manuel Marino Miguel Paulino Pedro Rafael Ramiro Ramn Sabino Toms Vicente }
-		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendriz Aznar Balenciaga Berasategui Bilbao Campin Churruca "de Amsquita" "de Azpilicueta" "de Erauso" "de Rentera" "de Ubisztongo" Echage Echave Echegaray Echevarra Elorza Gaztaeta Ibarrola Ibrruri Irujo Lazcano Mendizabal Moneo Nrdiz Olano Olave Oyarzbal Rotaeche Uzcudun Zamrraga Zrate Zavala Zumalacrregui }
-	}
-
-	portuguese = {
-		color = { 160 220 30 }
-		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo lvaro Andr Antnio Aquilino Artur Augusto Bartolomeu Bernardo Bruno Caetano Cndido Carlos Christovo Cludio Damio Daniel David Dinis Diogo Duarte Ernesto Estvo Eugnio Fernando Filipe Francisco "Francisco Xavier" Gasto Hermenegildo Igncio Jernimo Joo Joaquim Jorge Jos Julio Leopoldo Lus Manuel Mrio Miguel Nicolau Nuno Orlando Oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago Sebastio Teodoro Tefilo Tiago Tom Urbano Vasco Vicente Vitorino Vitrio }
-		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho "da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragana" "de Bragana-Coburgo" "de Carvalho" "de Castro" "de Gusmo" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos" Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes Herculano Ivens Keil Lopes Machado Magalhes Mendes Moniz Mouzinho Nogueira Nunes Ortigo Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha Ribeiro Rodrigues Salazar Sampaio Srgio Silveira Tavares Teixeira Vidigal Vieira }
-	}
-
-	castilian = {
-		color = { 220 220 30 }
-		first_names = { Agustn Alberto Alejandro Alfonso lvaro Antonio "Antonio Mara" Arsenio Augusto Baldomero Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Dmaso Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Flix Fernando Francisco "Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime Joaqun Jos "Jos Antonio" "Jos Manuel" "Jos Mara" Juan "Juan Bautista" Julio Leopoldo Lorenzo Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicols Pablo Pascual Pedro Rafael Raimundo Ramn Ricardo Santiago Sebastin Segismundo Valeriano Vicente }
-		last_names = { Acua Aguirre Alcal-Zamora Allendesalazar Alonso lvarez "lvarez de Toledo" Aranda Argelles-Meres Asensio Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbn" "de Carvajal" "de la Fuente" "de Orleans" Daz Espartero Fernndez "Fernndez de Crdoba" "Fitz-James Stuart" Franco Garca "Garca de la Noceda" Gonzlez Heredia Hernndez Herrera Hevia "Hidalgo de Cisneros" Linares Lpez Maroto Mrquez Martnez-Campos Maura Menndez Miaja Milln-Astray Mina Mola Muoz Narvez O'Donnell Ortega Pava Prez "Primo de Rivera" "Queipo de Llano" Rodrguez Rojo Ruiz Sanjurjo Serrano Silvestre Topete Valds Varela Villapol Villar Weyler Yage }
-	}
-
-	catalan = {
-		color = { 220 110 30 }
-		first_names = { Albert Alexandre Alfons Alfonso Andrs Andreu Antoni Carles Cassi Dalmau David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar Gerard Isaac Jacint Jaume Joan Jordi Jos Josep Juan Lloren Lluis Manel Manuel Marc Miquel Narcs Pasqual Pau Pedro Pere Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valnt Victor Xavier }
-		last_names = { Albniz Almirall Bacard Batet Berenguer Borrs Borrell Cadafall Carner Casals Casanova Castell Claramunt Cucala Cugat Despujol Domnech Escotet Fabra Fages "Folc de Cardona" Gumer Irla Llauder Maci Maragall Margall "Milans del Bosch" Mir Mompou Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
-	}
-
-}
-
 south_slavic = {
 	leader = european
 	unit = AustriaHungaryGC
@@ -1702,6 +1672,36 @@ germanic = {
 		color = { 50 80 80 }
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried Gnther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
 		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach Hoffmann Hummel Khler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb Stolzer Trunk "von Baden" "von Benedek" "von Bhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz" "von Grnne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Htzendorf" "von Kirbach" "von Kobratin" "von Schnburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wrttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
+	}
+
+}
+
+iberian = {
+	leader = southamerican
+	unit = SpanishGC
+	basque = {
+		color = { 220 170 30 }
+		radicalism = 15
+		first_names = { Agustn Aitor Alberto Ander Andoni Andrs ngel Antonio Arturo Carlos Ceferino Cosme Cristobal Damin Endika "Francisco Javier" Ignacio Imanol Iaki Jess Jon "Jos Antonio" "Jos Mara" Joseba Josu Juan Julen Koldobika Luis Manuel Marino Miguel Paulino Pedro Rafael Ramiro Ramn Sabino Toms Vicente }
+		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendriz Aznar Balenciaga Berasategui Bilbao Campin Churruca "de Amsquita" "de Azpilicueta" "de Erauso" "de Rentera" "de Ubisztongo" Echage Echave Echegaray Echevarra Elorza Gaztaeta Ibarrola Ibrruri Irujo Lazcano Mendizabal Moneo Nrdiz Olano Olave Oyarzbal Rotaeche Uzcudun Zamrraga Zrate Zavala Zumalacrregui }
+	}
+
+	portuguese = {
+		color = { 160 220 30 }
+		first_names = { Afonso Álvaro António Bernardo Brás Dinis Duarte Enrique Fernando Gonçalo Guiomar Henrique João Jorge José Lourenço Luís Martim Miguel Nuno Pedro Rafael Ricardo Rodrigo Rui Sancho Sebastião Tomé Vicente }
+		last_names = { Abreu Afonso Almeida Andrade Araújo Barros Belo Brito Cabral Camacho Campos Carvalho Castro Coelho Correia Costa Cunha Dias Duarte Esteves Faria Fernandes Ferreira Fonseca Freitas Galvão Gomes Gonçalves Guimarães Lemos Lima Loureiro Machado Magalhães Martins Matos Melo Monteiro Nogueira Oliveira Pacheco Paiva Pereira Pimentel Pinto Reis Rocha Rodrigues Salgado Santos Sequeira Sousa Teixeira Valente Vieira }
+	}
+
+	aragonese = {
+		color = { 220 110 30 }
+		first_names = { Ademar Aimar Alamand Arnaud Artaud Aymar Aznar Bernat Bertran Bonet Celdran Climent Dalmau Ermengol Esclarmond Esteve Fabre Felix Ferran Folquet Gaston Gausbert Gausfred Geraud Guillem Guillemot Isarn Jaufre Joan Jorda Llorenc Manel Marc Marti Mateu Miralh Olivier Peire Ponc Raimon Ramon Riquier Rogier Sergi Teobald Tibaut Trencavel Valeri Vidal Xavier }
+		last_names = { Alaman Azemar Aznar Bearn Bordenave Bosquet Cabanes Cazals Comminges Dalmau dAragon dAlbi dAlet dArmagnac dAurignac dEmpuries dFoix dIbiza dUrgell Escarre Esclarmond Fabre Faure Ferrer Jorda Lafage Lafitte Laroque Lavelanet Montcada Montfort Montsegur Nogues Pamiers Perpinya Prades Puig Rocabert Roussel Sabater Sarrat Tolosa Trencavel Usson Valdes Vidal Viguier }
+	}
+
+	asturian = {
+		color = { 150 150 0 }
+		first_names = { Alarico Alfonso Alvito Ansur Arnoldo Bermudo Braulio Diego Donato Fernando Gonzalo Gutierre Hugo Iñigo Jaime Juan Lamberto Leocadio Lope Luis Mendo Ordoño Pelayo Ramiro Rodrigo Sancho Teodomiro Tomás Ulrico Vicente }
+		last_names = { Abad Alvarez Arias Bermudez Blanco Braña Castaño Cruz Cortéz Fernández Gutiérrez López Llamas Martínez Menéndez Muñiz Núñez Otero Peláez Pérez Prieto Ramírez Rodríguez Ríos Suárez Vázquez Velasco }
 	}
 
 }
