@@ -102,38 +102,6 @@ scandinavian = {
 
 }
 
-british = {
-	leader = european
-	unit = BritishGC
-	irish = {
-		color = { 35 140 50 }
-		radicalism = 15
-		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond amon Edward Ernes Fionn Frank George Harry Jack James John Joseph Kevin Liam Michael Patrick Peter Richard Robert San Thomas William }
-		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
-	}
-
-	scottish = {
-		color = { 0 71 182 }
-		radicalism = 5
-		first_names = { Alan Alastair Alban Alpin Andrew Angus Aulay Blane Boyd Calum Clyde Coll Derek Donald Donnan Dougal Douglas Duff Duncan Ewan Farquar Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace }
-		last_names = { Smith Brown Wilson Robertson Thomson Campbell Stewart Anderson Scott Murray MacDonald Reid Taylor Clark Ross Young Mitchell Watson Paterson Morrison Sanders }
-	}
-
-	english = {
-		color = { 220 100 220 }
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald Percy Reginald Richard Robert Stanley Thomas Wallace William Winston Zachary }
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery Moresby Mundy Napier "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
-
-	welsh = {
-		color = { 117 161 67 }
-		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald Percy Reginald Richard Robert Stanley Thomas Wallace William Winston Zachary }
-		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery Moresby Mundy Napier "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
-	}
-
-	union = ENG
-}
-
 italian = {
 	leader = european
 	unit = ItalianGC
@@ -1640,8 +1608,56 @@ altreichisch = {
 
 	altreicher = {
 		color = { 255 80 0 }
-		first_names = { Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham Barthout Casimir Constantijn Cornelis Christiaan Christoffel Danil David Dominicus Daniel Dirk Elias Ernst Erwin Eise Frans Frederik Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben Hendrik Hans Hugo Isaac Johan Jurgen Jacob Jeroen Jan Joost Karel Kasper Luuk Lodewijk Laurens Marius Matthijs Maximiliaam Merkus Moritz Maurits Nikolaas Pauwel Paul Pieter Quinten Rafal Ruben Rudolf Roeland Rogier Rutger Stefan Simon Thomas Victor Willem Vincent Zacharias Albert Alexandre Alexis Alphonse Andr Antoine Auguste Barthlmy Baudouin Blaise Camille Clment Charles Constant Damien David Dsir Didier Edmond douard Emmanuel mile Etienne Eugne Flix Fernand Feullien Florent Franois Frdric Georges Grard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Franois Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent Lon Lonard Lopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sbastien Sylvain Thophile Victor Vincent Werner }
-		last_names = { van der Aa van Assendelft Boetge Boumeester van Bronkhorst Batenburg Bentinck Boreel Brandt van Brederode Brouwer Buyskes van Braam Houckgeest van der Capellen Chass Cochius Coops de Casembroot Cleerens Coehoorn Coen de Constant Rebecque Crijnssen van Culemborg Duycker de Eerens de Kock Deijkerhoff den Beer Poortugael Daendels van Diemen van der Does van Duivenvoorde Ellis Engels Engelvaart van Egmont Evertzen Fabius Gregory van Galen de Grouwe van Geen van Ham van Haren van Heemskerck van Heutsz Cort-Heyligers de Houtman van Huchtenbroek van Ilpendam Janssens Khler Kool Kruys Kater van Keppel Kortenaer List Lucas Michiels van Marnix Martena de Moor Melvill van Carnbee Nepveu Nachtegaal van Nieuwenaar van Noort Ongerboer van Pallandt Rijk Rell van Raephorst van Rechteren Reijersen van Renesse van Riebeeck de Rijk van Rossum Sabron Schimmelpenninck van der Oye van Saksen-Weimar van Spilbergen Staal Stokhuyzen Schouten Schenk Spiegel Steltman Stuyvesant Tasman van Troyen Trip van Dambenoy van den Bosch van der Heijden van Hoensbroeck van Oranje-Nassau van Swieten van Vredenburch Verspijck Vetter Weitzel Van Utenhove van Walbeeck van Wassenaer van der Werff van Wesembeke van Wingle van der Wijck van Wijngaarden de Winter Wolterbeek Allard Barbanson Barthlmy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon de Baillet de Beaufort de Behr de Bocarm de Bousies de Brouckre de Broqueville de Burlet de Celles de Chasteler de Coppin de Falaen de Cro de Decker de Dixmude de Gerlache de Grez de Hemptinne de Labbeville de Lannoy de Ligne de Leuze de Melin de Mrode de Pelichy de Quarre de Riquet de Robaulx de Rouille de Sauvage de Scus de Selys Longchamps de Stassart de Stockem de Theux de Meylandt de Trazegnies de Trooz de Viron de Waha Defacqz Deguise Delacroix Desmanet de Biesme Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze du Bois du Bus du Pont du Val de Beaulieu Dumont Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry Huysman d'Annecroix Jacques Joos Jottrand Lahure Lardinois le Cocq le Hon Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb Orban Ptillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn van Snick Wahis Wangerme Wyvekens Zoude }
+		first_names = { Abraham Adolf Adriaan Alphonse Albert Alexandre Alexis Alastair Alphonse Andr Andreas Andre Antoine Antoon Auguste Augustus Barthlmy Barthout Baudouin Blaise Camille Casimir Christiaan Christoffel Charles Clement Constant Constantijn Damien Daniel Danil David Des Didier Dominicus Dsir Edmond Edward Emmanuel Emil Eoghan Ernes Erwin Etienne Elias Eugène Fernand Feullien Félix Fiachra Florent Franois Frans Frédéric Frederick Gabriel Georges Gijsbert Gerard Gerben Gilles Godfried Grard Gregory Guillaume Gustaaf Gustave Hans Harry Hector Hercule Hugo Ignace Isaac Jacques Jean Jean-Baptiste Jean-François Jean-Jacques Jean-Louis Jeroen Joost Johan John Joseph Jules Karel Kasper Kevin Lambert Laurent Liam Lodewijk Lonard Lon Lucien Luuk Marius Mathieu Martin Maxime Maximilien Matthijs Maurits Michael Mirren Moritz Nikolaas Niall Olivier Pauwel Pascal Patrice Paul Patrice-Philippe Peter Pierre Pierre-Guillaume Quinten Rafal Richard Robert Ruben Rudolf Roeland Rogier Rutger San Sebastien Sholto Simon Stefan Sylvain Thomas Thophile Tadhg Victor Vincent Werner Willem Zacharias }
+		last_names = { Aiken Allard Andersson van Assendelft Barbanson Barthlmy Baugniet Beaucarne Batenburg Bentinck Berger Berthels Beyts Biver Blargnies Boetge Bredart Brialmont Brouckre Boumeester van Braam van Brederode Brandt Brouwer Buyskes Calder Cameron Campbell Chass Célis Clerix Claus Cochius Coehoorn Coen Collet Cols Collins Coquilhat Connolly Cort-Heyligers Craig d'Arenberg d'Annecroix d'Huart d'Omalius d'Oreye d'Oultremont David Davignon de Baillet de Beaufort de Behr de Bocarm de Bousies de Brouckre de Broqueville de Burlet de Celles de Casembroot de Chasteler de Coppin de Constant de Cro de Decker de Dixmude de Falaen de Gerlache de Grez de Hemptinne de Labbeville de Lannoy de Leuze de Ligne de Melin de Mrode de Pelichy de Quarre de Riquet de Robaulx de Rouille de Sauvage de Scus de Selys-Longchamps de Stassart de Stockem de Theux de Trazegnies de Trooz de Viron de Waha de Winter Defacqz Deguise Delacroix Desmanet Destriveaux Dethier Devaux Deville Dhanis Dreze du Bois du Bus du Pont du Val de Beaulieu Dumont Ellis Engels Engelvaart Evertzen Fabius Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Grant Graham Gregory van Galen de Grouwe van Geen van Ham van Haren van Heemskerck van Heutsz Henry Huysman Janssens Jacques Joos Jottrand Khler Kater Keppel Kool Kortenaer Kruys van der Aa van der Bosch van der Capellen van der Does van der Heijden van der Oye van der Werff van der Wijck van Diemen van Duivenvoorde van Marnix van Oranje-Nassau van Pallandt van Raephorst van Rechteren van Renesse van Riebeeck van Rossum van Spilbergen van Swieten van Troyen van Utenhove van Walbeeck van Wassenaer van Wesembeke van Wingle van Wijngaarden Rijk Rell Sabron Schenk Schimmelpenninck Schouten Spiegel Staal Steltman Stokhuyzen Stuyvesant Tasman Thorn Trip Vetter Verspijck Weitzel Wolterbeek White Wyvekens Zoude }
+	}
+
+}
+
+celtic = {
+	leader = european
+	unit = EuropeanGC
+	irish = {
+		color = { 35 140 50 }
+		radicalism = 15
+		first_names = { Aengus Alexander Arthur Branagan Brian Cathal Cian Christopher Con Conall Daniel Denis Desmond Daire Donnán Edward Ernes Fionn Finbar Frank George Harry Jack James John Joseph Kevin Liam Lorcan Michael Niall Oisín Padraig Patrick Peter Richard Robert Ruairi San Seamus Tadhg Thomas William }
+		last_names = { Ahern Aiken Ashe Breen Brugha Cahal Ciaran Collins Connolly Cosgrave Craig de Valera Dempsey Donnelly Egan FitzGerald Gallagher Griffith Keane Larkin Loughlin Lynch MacAuley McCartan McCullough McGarry McGuinness Mulcahy O'Brien O'Byrne O’Connell O'Doherty O'Donnell O'Higgins O'Leary O'Mara Pearse Plunket Quinn Ryan White }
+	}
+
+	scottish = {
+		color = { 0 71 182 }
+		radicalism = 5
+		first_names = { Alban Alan Alastair Alpin Andrew Angus Aitken Aulay Bain Balin Blane Boyd Cailean Calum Cameron Clyde Coll Derek Donald Donnan Dougal Douglas Drest Duff Duncan Ewan Farquar Fergus Fingal Finlay Gavin Gillian Gillis Gordon Greer Hamish Iain Ian Ivar Kenneth Kentigern Kirk Kyle Lachlan Lorne Malcolm Mirren Mungo Nairn Neil Nevin Ranald Rory Ross Sholto Somerled Tavish Torquil Wallace }
+		last_names = { Abernethy Anderson Bain Brown Calder Campbell Clark Dougal Fraser Grant Graham Innes MacAlister MacDonald MacGregor MacIntyre MacLeod MacNeill Mitchell Morrison Murray Paterson Reid Robertson Ross Sanders Scott Sinclair Stewart Taylor Thomson Wilson Young }
+	}
+
+	welsh = {
+		color = { 117 161 67 }
+		first_names = { Aeron Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Bryn Cadwaladr Caradoc Charles Colbert Colin Cyril David Donald Douglas Dylan Edmund Edwar Emrys Fairfax Ferdinand Francis Frederick Geraint Geoffrey George Graham Gwion Henrey Herbert Horatio Hubert Hugh Idris Ian Iestyn James Jeremy John Joseph Leopold Lester Llewelyn Louis Madoc Martin Nigel Oswald Percy Reginald Richard Robert Rhun Stanley Taliesin Thomas Tewdric Urien Wallace William Winston Zachary }
+		last_names = { Aber Aelwyd Abernathy Allenby Bala Battemberg Beatty Beresford Brown Buller Butler Campbell Cadogan Cardigan Carreg Celyddon Churchill Cochrane Cockburn de Robeck Dinefwr Dundas Eryri Fisher Fforest French Gough Grant Grenfell Haig Hafod Hamilton Hardinge Havelock Hope Jellicoe Kitchener Llyn Lyons Madden Meurig Milne Montgomery Moresby Mundy Napier of Hannover of Saxe-Coburg-Gotha Penrose Plummer Ragland Rhydderch Roberts Seaton Seymour Smith Smith-Dorrien Stewart Thesiger Tyrwhitt Tyron Tregaron Vryn Williams Windsor Wolseley Wood }
+	}
+
+	briton = {
+		color = { 155 255 0 }
+		first_names = { Aeron Bran Cadeyrn Caradoc Cunedda Ceri Dumnorix Edern Emrys Ffraid Gawain Geraint Gwion Idris Iestyn Llewelyn Maelgwn Medraut Myrddin Nefydd Owain Peredur Rhun Taliesin Tewdric Urien Vortigern }
+		last_names = { Abernathy Aelwyd Bala Cadogan Carreg Celyddon Cynon Dinefwr Eryri Fforest Gwynedd Hafod Llyn Llewellyn Meurig Myrddin Penrose Rhydderch Tregaron Tydfil Vryn }
+	}
+
+}
+
+roman = {
+	leader = european
+	unit = EuropeanGC
+	nova_roman = {
+		color = { 255 0 0 }
+		first_names = { Aelius Agrippa Antonius Augustus Aurelius Balbinus Brutus Caius Cassius Claudius Cornelius Decimus Domitius Drusus Faustus Fabius Flavius Gaius Galerius Hadrian Horatius Julius Junius Laelius Lucius Magnus Marcus Maximus Nero Octavius Paulus Petronius Quintus Severus Tiberius Titus Trajanus Valerius Varro Vitellius }
+		last_names = { Aquilinus Appianus Bassianus Calpurnius Celsinus Crispinus Domitianus Flavianus Gallicanus Glabrio Julianus Laevinus Livius Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus }
+	}
+
+	romanois = {
+		color = { 128 0 128 }
+		first_names = { Acelin Aelius Agrippa Alaric Alban Antoine Antonius Auguste Augustus Aurelius Balbin Barthélemy Blaise Brutus Caius Cassius Claudius Cornelius Damien Decimus Domitius Drusus Édouard Émeric Faustin Faustus Fabius Flavius Florent Gaius Galerius Gaspard Hadrian Hilaire Horace Horatius Hugo Julien Julius Junius Laelius Lucien Lucius Magnus Marcel Marcus Maxence Maximus Narcisse Nero Octavius Olivier Paulus Petronius Philippe Quintus Rémy Severus Sébastien Tiberius Thibault Titus Trajanus Valentin Valerius Varro Victor Vitellius }
+		last_names = { Aquilinus Appianus Bassianus Beaumont Calpurnius Celsinus Crispinus d'Aquitaine Domitianus Flavianus Gallicanus Glabrio Grimaldi Julianus Laevinus Livius Marcellin Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus Armand Aubert Blanchet Chastel Clément Dubois Fontaine Girard Laurent Leclerc Moreau Noël Perrin Roche Rousseau Saint-Clair Valois Verneuil Villiers }
 	}
 
 }
