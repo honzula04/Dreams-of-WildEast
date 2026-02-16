@@ -168,35 +168,6 @@ iberian = {
 
 }
 
-french = {
-	leader = european
-	unit = FrenchGC
-	french = {
-		color = { 51 153 255 }
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amde Antoine Armand August Augustin Charles Daniel Denis douard Elie ttiene Eugne Flicien Flix Fernand Franois Frdric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean Joseph Jules Julien Lazare Lopold Leroy Louis Lucien Matthieu Michel Napolon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou de Lapeyrre" Bout-Willaumez Boulanger Bourbaki Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchne Dupetit-Thouars Exelmans Foch Forey "Franchet d'Esprey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert Jaurs Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pllissier Petain Vaillant }
-	}
-
-	breton = {
-		color = { 100 110 100 }
-		first_names = { Yann Yannic Pierre Jakez Elouan Frasez Jaoua Paol Segal Alain Henri Hol Michel Thodore }
-		last_names = { "de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan" }
-	}
-
-	anglois = {
-		color = { 50 20 100 }
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amde Antoine Armand August Augustin Charles Daniel Denis douard Elie ttiene Eugne Flicien Flix Fernand Franois Frdric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean Joseph Jules Julien Lazare Lopold Leroy Louis Lucien Matthieu Michel Napolon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou de Lapeyrre" Bout-Willaumez Boulanger Bourbaki Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchne Dupetit-Thouars Exelmans Foch Forey "Franchet d'Esprey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert Jaurs Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pllissier Petain Vaillant }
-	}
-
-	provencal = {
-		color = { 84 97 38 }
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amde Antoine Armand August Augustin Charles Daniel Denis douard Elie ttiene Eugne Flicien Flix Fernand Franois Frdric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean Joseph Jules Julien Lazare Lopold Leroy Louis Lucien Matthieu Michel Napolon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou de Lapeyrre" Bout-Willaumez Boulanger Bourbaki Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchne Dupetit-Thouars Exelmans Foch Forey "Franchet d'Esprey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert Jaurs Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pllissier Petain Vaillant }
-	}
-
-}
-
 south_slavic = {
 	leader = european
 	unit = AustriaHungaryGC
@@ -1654,10 +1625,67 @@ roman = {
 		last_names = { Aquilinus Appianus Bassianus Calpurnius Celsinus Crispinus Domitianus Flavianus Gallicanus Glabrio Julianus Laevinus Livius Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus }
 	}
 
+}
+
+armoricain = {
+	leader = european
+	unit = EuropeanGC
+	armoricain = {
+		color = { 100 0 255 }
+		first_names = { Adelin Alain Alan Amaury André Archambault Arzhur Arthur Benoît Bertrand Branor Cadel Cadoc Charles Clovis Corentin Denis Denez Edouard Émeric Étienne Erwan Fañch Florent Goulven Guillaume Gwenaël Hervé Iwan Jacques Jean Judicaël Jules Kelig Léon Loeizaon Loïc Louis Malo Maël Maëlig Marcel Martin Morvan Niel Noël Olivier Pascal Philippe Peran Raoul René Robert Ronan Salomon Tanguy Thierry Tristan Victor Yann Yves Yvon }
+		last_names = { Abadie Abgrall Adefres Alençon Auvray Bailleul Barbet Beauregard Bellanger Bihan Blanchet Bodin Bozec Bonvalet Bourdon Brière Caradec Carpentier Cariou Chauvin Chevalier Coz Collin Coudray Corre Courtois Daoud Delahaye Douar Dubois Duval De Beaumont Fontaine Foucault Gosselin Guillaume Hamelin Joly Le Bris Le Borg Le Cam Le Coz Le Clair Le Drian Le Gall Le Goff Le Louarn Le Meur Le Roux Le Scouëzec Le Thiec Leroux Lemoine Louazel Marchand Martel Morin Nédélec Perrin Pellen Pichon Quéméneur Quéré Renault Rozé Robert Saint-Clair Tanguy Trellu Tréanton Valois Villiers }
+	}
+
 	romanois = {
 		color = { 128 0 128 }
 		first_names = { Acelin Aelius Agrippa Alaric Alban Antoine Antonius Auguste Augustus Aurelius Balbin Barthélemy Blaise Brutus Caius Cassius Claudius Cornelius Damien Decimus Domitius Drusus Édouard Émeric Faustin Faustus Fabius Flavius Florent Gaius Galerius Gaspard Hadrian Hilaire Horace Horatius Hugo Julien Julius Junius Laelius Lucien Lucius Magnus Marcel Marcus Maxence Maximus Narcisse Nero Octavius Olivier Paulus Petronius Philippe Quintus Rémy Severus Sébastien Tiberius Thibault Titus Trajanus Valentin Valerius Varro Victor Vitellius }
 		last_names = { Aquilinus Appianus Bassianus Beaumont Calpurnius Celsinus Crispinus d'Aquitaine Domitianus Flavianus Gallicanus Glabrio Grimaldi Julianus Laevinus Livius Marcellin Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus Armand Aubert Blanchet Chastel Clément Dubois Fontaine Girard Laurent Leclerc Moreau Noël Perrin Roche Rousseau Saint-Clair Valois Verneuil Villiers }
+	}
+
+}
+
+francais = {
+	leader = european
+	unit = FrenchGC
+	french = {
+		color = { 51 153 255 }
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amde Antoine Armand August Augustin Charles Daniel Denis douard Elie ttiene Eugne Flicien Flix Fernand Franois Frdric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean Joseph Jules Julien Lazare Lopold Leroy Louis Lucien Matthieu Michel Napolon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Bou de Lapeyrre" Bout-Willaumez Boulanger Bourbaki Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" "de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchne Dupetit-Thouars Exelmans Foch Forey "Franchet d'Esprey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert Jaurs Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Pllissier Petain Vaillant }
+	}
+
+	provencal = {
+		color = { 0 128 128 }
+		first_names = { Adémar Albin Amaury Anselme Arnaud Aurelien Baptiste Benoît Bertrand Célestin Clément Damien Estève Étienne Fabien Félix Florent Gaspard Géraud Guilhem Honoré Isidore Jacques Jean Jourdain Jules Laurent Léon Louis Marcel Marius Mathieu Maxime Melchior Olivier Pascal Pierre Raimond Rémi Romain Théodore Théophile Tristan Valère Victor }
+		last_names = { Arnaud Arnoux Aubert Audibert Aymard Barret Blanc Borel Bousquet Brunet Caron Chabert Chastel Clément Fabre Faure Fournier Giraud Goudard Jourdan Laffitte Lambert Laurent Lombard Maurel Michel Monnier Morel Olivier Pascal Pélissier Perrin Reynaud Richaud Roux Sabatier Ségur Tissier Valette Vian Vigne Viret }
+	}
+
+	aquitain = {
+		color = { 250 0 100 }
+		first_names = { Ademar Alain Amaury Arnaud Aymon Barthélemy Bertrand Boniface Cadoc Célestin Clément Damien Denis Émeric Étienne Fabien Florent Gaël Gaston Géraud Guilhem Guillaume Henri Honoré Jacques Jean Jules Laurent Léon Louis Martin Olivier Pascal Philippe Pierre Raymond Rémy Roland Simon Théophile Thibault Tristan Victor Yves }
+		last_names = { Abadie Aignan Arnaud Audouin Baudin Beaumont Bertran Blanchard Bonnet Capdevielle Carrière Carrière de Lartigue Chauvin Clément Dalmay Dufresne Dupuy Durand Faure Fauré Ferrand Giraud Laborde Labrousse Laffitte Lalanne Lannes Laporte Lapeyre Laroche Larue Laurent Lavigne Lemoine Lescure Mallet Maréchal Marot Masson Montagne Noël Perrin Piquet Renaud Reynaud Roche Roux Sabatier Saint-Pierre Talbot Taillandier Tissier Valette Vignaud }
+	}
+
+	arpitan = {
+		color = { 50 20 100 }
+		first_names = { Adrien Aimé Alain Alphonse André Anselme Antoine Auguste Aurélien Baptiste Benoît Blaise Célestin Charles Claude Constant Cyrille Denis Edmond Édouard Émile Ernest Eugène Félix François Frédéric Gabriel Georges Gustave Henri Isidore Jacques Jean Joseph Jules Léon Louis Lucien Marcel Marius Maurice Nicolas Olivier Pascal Philippe Pierre Raymond René Sébastien Théodore Victor }
+		last_names = { Aubert Aymon Aymard Blanc Borgeaud Bovet Bovy Brunner Bütikofer Chappuis Clerc Dufour Dupraz Emery Favre Favez Frossard Gaillard Gilliéron Girard Golay Grandjean Jacquier Jeanneret Lombard Maillard Monnier Moret Morel Pahud Pernet Perrin Piguet Rochat Rey Reymond Ruchat Savoy Simonin Tissot Vaucher Vionnet Vouga }
+	}
+
+	occitan_gascon = {
+		color = { 250 188 158 }
+		first_names = { Ademar Aimar Alain Amiel Anselm Arnaud Artaud Aurelien Aymeric Benoît Bernat Bertrand Clément Dalmau Damian Estève Étienne Fabien Félix Florent Géraud Guilhem Isarn Jaufre Joan Jordà Laurent Léon Loup Manel Marcel Marius Mateu Miralh Olivier Pèire Pons Raimond Ramon Rémi Renaud Riquier Sèrgi Simon Teobald Tristan Valeri Victor }
+		last_names = { Abadie Arnaud Arriou Aubert Ayguesvives Barrau Bascou Bordenave Bousquet Cazaux Claverie Darrieux Dufau Duran Dupuy Escande Fabre Faure Fauré Giraud Laffitte Lalanne Lannes Laporte Larroque Lartigue Lavergne Lavigne Lestage Maurel Moncade Montané Pélissier Pons Prat Reynaud Rigal Sabatier Sarrat Tissier Valette Viguier }
+	}
+
+}
+
+catharien = {
+	leader = european
+	unit = EuropeanGC
+	cathar = {
+		color = { 228 108 100 }
+		first_names = { Ademar Aimeric Alamand Arnaut Arnaud Artaud Aymeric Aznar Bernat Bertran Bonet Celdran Climent Dalmau Ermengol Esclarmond Estève Esteve Fabre Fèlix Ferran Folquet Gaston Gausbert Gausfred Géraud Guilhem Guilhemot Isarn Jaufre Joan Jordà Llorenç Manel Marc Martí Mateu Miralh Olivier Pèire Ponç Raimon Ramon Riquier Rogier Sèrgi Teobald Tibaut Trencavel Valeri Vidal }
+		last_names = { Alaman Azemar Aznar Bearn Bordenave Bosquet Cabanes Cazals Comminges Dalmau d’Aragon d’Albi d’Alet d’Armagnac d’Aurignac d’Empúries d’Foix d’Ibiza d’Urgell Escarré Esclarmond Fabre Fauré Ferrer Jordà Lafage Lafitte Laroque Lavelanet Montcada Montfort Montségur Noguès Pamiers Perpinyà Prades Puig Rocabert Roussel Sabater Sarrat Tolosa Trencavel Usson Valdès Vidal Viguier }
 	}
 
 }
