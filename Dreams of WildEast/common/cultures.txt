@@ -1,48 +1,6 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
-germanic = {
-	leader = european
-	unit = EuropeanGC
-	north_german = {
-		color = { 90 60 60 }
-		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Gnther Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jrgen Karl Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
-		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Boyen" "von Braunschweig" "von Blow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	}
-
-	pomeranian = {
-		color = { 0 49 83 }
-		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Gnther Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jrgen Karl Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
-		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Boyen" "von Braunschweig" "von Blow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	}
-
-	south_german = {
-		color = { 140 110 110 }
-		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried Gnther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
-		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach Hoffmann Hummel Khler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb Stolzer Trunk "von Baden" "von Benedek" "von Bhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz" "von Grnne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Htzendorf" "von Kirbach" "von Kobratin" "von Schnburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wrttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
-	}
-
-	lower_danubian = {
-		color = { 50 80 80 }
-		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried Gnther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
-		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach Hoffmann Hummel Khler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb Stolzer Trunk "von Baden" "von Benedek" "von Bhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz" "von Grnne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Htzendorf" "von Kirbach" "von Kobratin" "von Schnburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wrttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
-	}
-
-	rheinish = {
-		color = { 0 96 36 }
-		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Gnther Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jrgen Karl Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
-		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree "Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Boyen" "von Braunschweig" "von Blow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" "von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	}
-
-	swiss = {
-		color = { 213 43 30 }
-		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
-		last_names = { Brenner Deucher Funk Haab Herzog Knsel Munzinger Nff Schneider Siegwart-Mller "von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Wille Celio Cotti Fogliardi Motta Zeni Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
-	}
-
-	union = GER
-}
-
 jewish_cultures = {
 	leader = european
 	unit = EuropeanGC
@@ -62,42 +20,6 @@ jewish_cultures = {
 		color = { 63 138 223 }
 		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar }
 		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban Sassoon Sebag }
-	}
-
-}
-
-scandinavian = {
-	leader = european
-	unit = SwedishGC
-	finnish = {
-		color = { 220 220 220 }
-		radicalism = 5
-		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian Fredrik Fridolf Georg Gsta Harald Hjalmar Hugo Johannes Juho Kaarlo Kurt Lars Martti Mikko Paavo Petteri Rudolf Vin Viktor Vilho }
-		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Jrneflt Linder Mannerheim Multamki Nenonen Oesch quist sterman Paasikivi Raappana Ramsay Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
-	}
-
-	swedish = {
-		color = { 0 150 200 }
-		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
-		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso "de Meza" Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
-	}
-
-	norwegian = {
-		color = { 50 0 200 }
-		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
-		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler }
-	}
-
-	danish = {
-		color = { 150 0 50 }
-		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
-		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler }
-	}
-
-	gotlandian = {
-		color = { 128 128 128 }
-		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian Fredrik Fridolf Georg Gsta Harald Hjalmar Hugo Johannes Juho Kaarlo Kurt Lars Martti Mikko Paavo Petteri Rudolf Vin Viktor Vilho }
-		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Jrneflt Linder Mannerheim Multamki Nenonen Oesch quist sterman Paasikivi Raappana Ramsay Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo von Hesse-Kassel Walden Wallenius Wetzer }
 	}
 
 }
@@ -1671,10 +1593,10 @@ francais = {
 		last_names = { Aubert Aymon Aymard Blanc Borgeaud Bovet Bovy Brunner Bütikofer Chappuis Clerc Dufour Dupraz Emery Favre Favez Frossard Gaillard Gilliéron Girard Golay Grandjean Jacquier Jeanneret Lombard Maillard Monnier Moret Morel Pahud Pernet Perrin Piguet Rochat Rey Reymond Ruchat Savoy Simonin Tissot Vaucher Vionnet Vouga }
 	}
 
-	occitan_gascon = {
-		color = { 250 188 158 }
-		first_names = { Ademar Aimar Alain Amiel Anselm Arnaud Artaud Aurelien Aymeric Benoît Bernat Bertrand Clément Dalmau Damian Estève Étienne Fabien Félix Florent Géraud Guilhem Isarn Jaufre Joan Jordà Laurent Léon Loup Manel Marcel Marius Mateu Miralh Olivier Pèire Pons Raimond Ramon Rémi Renaud Riquier Sèrgi Simon Teobald Tristan Valeri Victor }
-		last_names = { Abadie Arnaud Arriou Aubert Ayguesvives Barrau Bascou Bordenave Bousquet Cazaux Claverie Darrieux Dufau Duran Dupuy Escande Fabre Faure Fauré Giraud Laffitte Lalanne Lannes Laporte Larroque Lartigue Lavergne Lavigne Lestage Maurel Moncade Montané Pélissier Pons Prat Reynaud Rigal Sabatier Sarrat Tissier Valette Viguier }
+	rhenois = {
+		color = { 28 0 132 }
+		first_names = { Adrien Alphonse Andreas Anton Armand Auguste Baptiste Benoît Bernard Charles Conrad Damien Dietrich Édouard Émile Ernst Eugène Félix Franz Frédéric Gabriel Gérard Guillaume Henri Hubert Jacques Johann Joseph Jules Karl Laurent Léon Louis Lucien Matthieu Maximilien Michel Nicolas Olivier Otto Pascal Philippe Pierre Raimond René Sébastien Théodore Valentin Victor Wilhelm }
+		last_names = { Aubry Baudin Becker Bergmann Bernard Boulanger Brandt Dietrich Dubois Eberhardt Fabre Fischer Fournier François Girard Graff Haas Hartmann Hebert Heinrich Keller Klein Kraemer Lambert Laurent Lemaire Leroy Maier Martin Meyer Moreau Muller Neumann Petit Renault Richard Schneider Schmitt Schreiber Schulte Simon Strauss Vasseur Vogel Wagner Weber Weiss Werner }
 	}
 
 }
@@ -1686,6 +1608,100 @@ catharien = {
 		color = { 228 108 100 }
 		first_names = { Ademar Aimeric Alamand Arnaut Arnaud Artaud Aymeric Aznar Bernat Bertran Bonet Celdran Climent Dalmau Ermengol Esclarmond Estève Esteve Fabre Fèlix Ferran Folquet Gaston Gausbert Gausfred Géraud Guilhem Guilhemot Isarn Jaufre Joan Jordà Llorenç Manel Marc Martí Mateu Miralh Olivier Pèire Ponç Raimon Ramon Riquier Rogier Sèrgi Teobald Tibaut Trencavel Valeri Vidal }
 		last_names = { Alaman Azemar Aznar Bearn Bordenave Bosquet Cabanes Cazals Comminges Dalmau d’Aragon d’Albi d’Alet d’Armagnac d’Aurignac d’Empúries d’Foix d’Ibiza d’Urgell Escarré Esclarmond Fabre Fauré Ferrer Jordà Lafage Lafitte Laroque Lavelanet Montcada Montfort Montségur Noguès Pamiers Perpinyà Prades Puig Rocabert Roussel Sabater Sarrat Tolosa Trencavel Usson Valdès Vidal Viguier }
+	}
+
+	occitan_gascon = {
+		color = { 250 188 158 }
+		first_names = { Ademar Aimar Alain Amiel Anselm Arnaud Artaud Aurelien Aymeric Benoît Bernat Bertrand Clément Dalmau Damian Estève Étienne Fabien Félix Florent Géraud Guilhem Isarn Jaufre Joan Jordà Laurent Léon Loup Manel Marcel Marius Mateu Miralh Olivier Pèire Pons Raimond Ramon Rémi Renaud Riquier Sèrgi Simon Teobald Tristan Valeri Victor }
+		last_names = { Abadie Arnaud Arriou Aubert Ayguesvives Barrau Bascou Bordenave Bousquet Cazaux Claverie Darrieux Dufau Duran Dupuy Escande Fabre Faure Fauré Giraud Laffitte Lalanne Lannes Laporte Larroque Lartigue Lavergne Lavigne Lestage Maurel Moncade Montané Pélissier Pons Prat Reynaud Rigal Sabatier Sarrat Tissier Valette Viguier }
+	}
+
+}
+
+scandinavian = {
+	leader = european
+	unit = SwedishGC
+	finnish = {
+		color = { 220 220 220 }
+		radicalism = 5
+		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian Fredrik Fridolf Georg Gsta Harald Hjalmar Hugo Johannes Juho Kaarlo Kurt Lars Martti Mikko Paavo Petteri Rudolf Vin Viktor Vilho }
+		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Jrneflt Linder Mannerheim Multamki Nenonen Oesch quist sterman Paasikivi Raappana Ramsay Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
+	}
+
+	swedish = {
+		color = { 0 150 200 }
+		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
+		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso "de Meza" Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
+	}
+
+	norwegian = {
+		color = { 50 0 200 }
+		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
+		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler }
+	}
+
+	danish = {
+		color = { 150 0 50 }
+		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
+		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler }
+	}
+
+	gotlandian = {
+		color = { 128 128 128 }
+		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian Fredrik Fridolf Georg Gsta Harald Hjalmar Hugo Johannes Juho Kaarlo Kurt Lars Martti Mikko Paavo Petteri Rudolf Vin Viktor Vilho }
+		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Jrneflt Linder Mannerheim Multamki Nenonen Oesch quist sterman Paasikivi Raappana Ramsay Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo von Hesse-Kassel Walden Wallenius Wetzer }
+	}
+
+}
+
+swiss = {
+	leader = european
+	unit = EuropeanGC
+	swiss = {
+		color = { 213 43 30 }
+		first_names = { Adalbert Adelhard Alarich Albrecht Alwin Anton Arnold Armin Artho Benedikt Bernhard Berthold Christoph Conrad Dietrich Eberhard Egon Emil Ernst Falko Ferdinand Franz Friedrich Gabriel Georg Gottfried Hans Hartmut Heinrich Hermann Hugo Jakob Johann Josef Karl Kaspar Konrad Leopold Ludwig Markus Matthias Michael Nikolaus Othmar Ottmar Raimund Rudolf Samuel Sebastian Sigmund Simon Stefan Theodor Ulrich Valentin Viktor Wilhelm Wolf }
+		last_names = { Aeschlimann Albrecht Arnold Baumgartner Berger Bieri Brunner Dietrich Egger Fankhauser Feller Fischer Flückiger Gassmann Gerber Graf Haas Haller Hegi Huber Hugler Keller Koller Köhler Lang Lehmann Maier Meier Moser Neidhart Neumann Pfeiffer Rechberger Rickenbach Rieder Schaller Schmid Schneider Schuler Stadelmann Steiner Vogel Weber Weiss Zimmermann }
+	}
+
+	alemannic = {
+		color = { 140 250 150 }
+		first_names = { Adalbert Adelhard Alarich Albrecht Alwin Anselm Anton Armin Artho Berchtold Berthold Bruno Christoph Conrad Dietmar Dietrich Eberhard Egon Emil Ernst Falko Ferdinand Franz Friedrich Gerhard Gottfried Hans Hartmut Heinrich Hermann Hugo Jakob Johann Josef Karl Kaspar Konrad Leopold Ludwig Luitpold Markus Matthias Michael Nikolaus Othmar Ottmar Raimund Rudolf Samuel Sebastian Sigmund Simon Stefan Theodor Ulrich Valentin Viktor Walther Wilhelm Wolf }
+		last_names = { Aeschlimann Ackermann Althaus Baumann Berger Bühler Dietrich Dinkel Egger Fankhauser Feldmann Fischer Flückiger Gassmann Gerber Graf Haas Haller Hegi Huber Keller Koller Köhler Lang Lehmann Maier Meier Moser Neidhart Neumann Pfeiffer Rechberger Rickenbach Rieder Schaller Schmid Schneider Schuler Stadelmann Steiner Vogel Weber Weiss Zimmermann }
+	}
+
+}
+
+germanic = {
+	leader = european
+	unit = EuropeanGC
+	welfic = {
+		color = { 170 170 20 }
+		first_names = { Albrecht Anton Arend Bernhard Burkhard Caspar Christian Cord Detlef Dieter Eberhard Eike Ernst Folkert Friedrich Gerhard Gerd Harm Henning Hermann Hinrich Holger Jasper Johann Jürgen Karl Konrad Ludolf Magnus Nikolaus Oskar Rainer Siegfried Theodor Tjark Ulf Volker Wilhelm Wulf }
+		last_names = { Ahrens Albers Behrens Behrendt Brandes Brunke Cordes Dierks Ehlers Eilers Evers Feldmann Gerken Harms Heineke Heinemann Hinrichs Holsten Janssen Karstens Kuhlmann Lübke Martens Meyer Nordmann Oltmann Peters Rademacher Reimers Rohde Schütte Seifert Stöver Tiedemann Volkmann Wessels Wilkens Winter }
+	}
+
+	saxon = {
+		color = { 0 49 83 }
+		first_names = { Adalbert August Balthasar Bernhard Christoph Dietrich Eckhard Edmund Elias Ernst Ferdinand Friedrich Gottfried Gustav Heinrich Joachim Johann Julius Karl Leopold Lorenz Ludwig Matthes Moritz Nikolaus Ottomar Reinhold Richard Rudolf Sebastian Theodor Traugott Valentin Walther Wilhelm }
+		last_names = { Albrecht Berger Dietze Drechsler Eckardt Enders Förster Franke Gerlach Götz Gruber Hartung Hecht Heidler Hennig Hoffmann Jäger Kirchner Klemm Körner Krause Lehmann Lindner Menzel Neubert Opitz Pohl Richter Schade Schirmer Schlegel Seidel Sommer Stephan Vogel Werner Wirth Ziegler }
+	}
+
+	swabian = {
+		color = { 140 110 110 }
+		first_names = { Adalbert Albrecht Anselm Anton Arnold Berthold Christoph Conrad Dietrich Edmund Emil Ernst Ferdinand Franz Friedrich Gottlieb Heinrich Hermann Hugo Jakob Johann Johannes Karl Konrad Leopold Ludwig Matthias Nikolaus Otto Philipp Reinhard Robert Sebastian Theodor Ulrich Valentin Wilhelm }
+		last_names = { Ackermann Althaus Baumann Beck Berger Bühler Degen Dieterle Dinkel Fischer Fuchs Gärtner Graf Hartmann Huber Keller Kistler Köhler Lutz Maier Moser Neumann Pfeiffer Reiter Roth Schäfer Schmid Schneider Schott Schuler Schuster Vogel Wagner Weber Wolf Zimmermann }
+	}
+
+	bavarian = {
+		color = { 0 126 236 }
+		first_names = { Adalbert Albrecht Alois Anton Armin August Benedikt Berthold Christian Christoph Dietrich Emil Ernst Ferdinand Franz Gabriel Georg Heinrich Hermann Jakob Johann Josef Karl Konrad Leopold Ludwig Markus Matthias Michael Nikolaus Oskar Otto Peter Philipp Raimund Sebastian Stefan Theodor Valentin Wilhelm }
+		last_names = { Ackermann Albrecht Bauer Beck Berger Brandl Dietrich Eberhart Eckert Engel Falk Fischer Förster Frank Gärtner Graf Hartmann Heigl Heindl Huber Keller Klein Köhler Lang Lehmann Maier Meier Moser Neumann Pfeiffer Reiter Richter Schaller Schmid Schneider Schott Schreiber Seidel Sommer Steiner Vogel Wagner Weber Weiss Wolf Zimmermann }
+	}
+
+	reichsburger = {
+		color = { 50 80 80 }
+		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried Gnther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach Hoffmann Hummel Khler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb Stolzer Trunk "von Baden" "von Benedek" "von Bhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz" "von Grnne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Htzendorf" "von Kirbach" "von Kobratin" "von Schnburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wrttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
 	}
 
 }
