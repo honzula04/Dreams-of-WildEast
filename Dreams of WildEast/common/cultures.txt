@@ -21,7 +21,6 @@ jewish_cultures = {
 		first_names = { Abraham Amos Baruch Binyamin Daniel David Efraim Ehud Eli Eliezer Elijah Gavriel Hebel Immanuel Itzhak Levi Mattiyahu Mensahe Mikhael Moshe Natan Noach Reuben Roi Shalom Shimon Tovia Uriel Uzziel Yaakov Yachin Yafe Yehoshua Yehudah Yochanan Yonatan Yosef Zohar }
 		last_names = { Banai Barak "Ben Ami" Benveniste Canetti Cantor Cardoso Cohen Disraeli Gaon Golan Halevi Levy Maimon Mizrachi Montefiore Peretz Rafaeli Saban Sassoon Sebag }
 	}
-
 }
 
 italian = {
@@ -104,7 +103,6 @@ pan_albanian = {
 		first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene Iliaz Ishak Ismail Izet Kara Kastriot Koi Kpryly Kostaq Lek Maliq Marin mehdi Musa Mustafa Pandeli Petro Qamil Qazim Ramush Rexhep Shefqet Sknder Sulejman Tewfik Theofan Turhan Vasil Veton Xhafer }
 		last_names = { Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Biakiu" "Bej Delvina" "Bej Frashri" "Bej Libohova" "Bej Ndroque" "Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza abej eku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli "Pash Prmeti" "Pash Tepelena" "Pash Toptani" Poga "Qemal Bej" Shahini Skiroi Thai Troja Xoxe }
 	}
-
 }
 
 pan_romanian = {
@@ -127,7 +125,6 @@ hungarian_culture_group = {
 		first_names = { Alajos Albert lmos Anasztz Andrs Arisztid Aurl Bla Benedek Bni Bertalan Dniel Dvid Edvrd lis Erno Ferencz Gbor Gbriel Gspr Gyrgy Gyula Ignc Imre Istvn Izidor Jnos Jzsef "Jzsef Manes" Klmn Kroly Katalin Kelemen Krisztian Lajos Lszl Man Mihly Mr Mykls dn Ott Pter Rafael Sndor Simon Tivadar Vilmos Virg Zsigmond }
 		last_names = { Andrssy Apponyi Aulich Bacher Baross Batthyny Bethy Bothmer Damjanich Dessewffy Egressy "Ernyi Ullmann" Farkas "Frakashzi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izs Joseffy Katona Kaufman Kler Kiss Knezich Kogutowicz Lahner Lzr Leiningen-Westerburg Lichtenstein Liszt Mikszth Molnr Nagy-Sndor sterreicher Ottinger Perczel Poeltenberg Remnyi Rohr Schweidel Szchenyi Szemere Szlvic Tersztyansky Trk Varga Vcsey "von Benedek" }
 	}
-
 }
 
 west_slavic = {
@@ -145,7 +142,6 @@ west_slavic = {
 		first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy Viktor Volodimir Vladislav Yuriy }
 		last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kondratenko Leshchenko Leshchinskiy Omelianovych-Pavlenko Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
 	}
-
 }
 
 czecho_slovak_culture_group = {
@@ -162,7 +158,6 @@ czecho_slovak_culture_group = {
 		first_names = { Albn Alexander Andrs Andrej Augustn Basil Cyprin Dalibor Dezider Dominik Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustv Imrich Jchym Jn Janko Jozef Juraj Karol Ladislav Levoslav Marin Marko Martin Matej Michal Mikuls Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav Rudolf Samuel Sergej Stefan Svtozr Tibor Toms Viliam Vladimr Vojtech }
 		last_names = { chim Bzlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek Figus-Bystr Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajansk Husk Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malr Malovec Markovic Masaryk Mry Moyses Rzus Rohcek Rudnay Selepcni Sidor Skultty-Gbris Smik Sokol Stefnik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
 	}
-
 }
 
 east_slavic = {
@@ -209,12 +204,10 @@ baltic = {
 		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari Jaan Jakob Johannes Joosep Juhan Julius Jri Kaarel Kalev Konstantin Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent Ragnar Siiri Sven Tarmo Tnis Toomas Uno Valmar Villwm Voldemar }
 		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhhe Eenpalu Hint Hurt Jaakson Kangro Kint Klaasen Koern Kiv Kotli Kumari Kupine Kuusik Leppik Lipping Lohk Me Mnnil Moora Natus Nurkse Nurmekund kva pik Orkivu Pts Perna Piiper Poska Puusepp Rnk Rei Reinman Siinmaa Sikkar Sirk Tnisson Uluots Vaga Veske Vilbaste Vilms "von Uexkll" Warma }
 	}
-
 }
 
 levantine = {
 	leader = european
-	unit = 
 	greek = {
 		color = { 122 180 210 }
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios }
@@ -256,7 +249,6 @@ levantine = {
 		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios }
 		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas" Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis }
 	}
-
 }
 
 semitic = {
@@ -409,6 +401,7 @@ tatar_group = {
 	}
 
 	union = TAR
+
 	is_overseas = no
 }
 
@@ -476,6 +469,7 @@ iranian = {
 	}
 
 	union = ARY
+
 	is_overseas = no
 }
 
@@ -758,7 +752,6 @@ southeast_asian = {
 		first_names = { Po La Paban Hkun Maung Papw Sao Saw }
 		last_names = { Che Baw U Lawi Lasa Pyatin "Law Paw" Kyi Pun Nge Bye Kye }
 	}
-
 }
 
 east_asian = {
@@ -787,7 +780,6 @@ east_asian = {
 		first_names = { Seimei Resaak Akihi Petennouk Unayanke Shiratekka Apniainu Pasekur Munkeke Shitekka Shinriki Shiromainu Menkakush }
 		last_names = { Aterui Shakushine Koshamine Harukor Turushno Isonash Keutoranke }
 	}
-
 }
 
 chinese = {
@@ -876,12 +868,10 @@ oversea_chinese = {
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu }
 		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye L Tian Jiang Wei Ting Shen Fang Jin Qiu }
 	}
-
 }
 
 oceanic = {
 	leader = nativeamerican
-	unit = 
 	aborigine = {
 		color = { 78 24 92 }
 		first_names = { Nemarluk Umbarra Wylie Yagan Tollamareena Pemulwy Mokare Derrimut Bennelong Billibellary }
@@ -935,7 +925,6 @@ mesoandean = {
 
 native_south_american = {
 	leader = nativeamerican
-	unit = 
 	guarani = {
 		color = { 89 80 175 }
 		first_names = { Aniceto Antonio Bartolom Camilo Carlos Claudio David Emiliano Eugenio Felipe Flix Fernando Gregorio Jacinto Jess Jos Juan Julio Luis Manuel Marcos Mximo Narciso Pablo Pedro Rodrigo Roque Simn Teodoro Vctor }
@@ -959,7 +948,6 @@ native_south_american = {
 
 native_north_american = {
 	leader = nativeamerican
-	unit = 
 	rohnnst = {
 		color = { 15 68 192 }
 		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard Elias Emil Erik Esaias Fabian Nikolaus Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel Li Zhang Liu Chen Huang Wang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu Mashkode Maskipitonew Zhaawano Gidagizi Misko Waabano Bizhiikii Kiskiyew Binesik Migizi Gekek Awananiisaawikwe }
@@ -1015,6 +1003,7 @@ boer_cultures = {
 	}
 
 	union = BTV
+
 	is_overseas = no
 }
 
@@ -1032,7 +1021,6 @@ anglois_american = {
 		first_names = { Albert Alexandre Alexis Alphonse Andr Antoine Auguste Barthlmy Baudouin Blaise Camille Clment Charles Constant Damien David Dsir Didier Edmond douard Emmanuel mile Etienne Eugne Flix Fernand Feullien Florent Franois Frdric Georges Grard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Franois Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent Lon Lonard Lopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sbastien Sylvain Thophile Victor Vincent Werner }
 		last_names = { Allard Barbanson Barthlmy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm" "de Bousies" "de Brouckre" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mrode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Scus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb Orban Ptillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangerme Wyvekens Zoude }
 	}
-
 }
 
 burgundian_american = {
@@ -1049,7 +1037,6 @@ burgundian_american = {
 		first_names = { Albert Alexandre Alexis Alphonse Andr Antoine Auguste Barthlmy Baudouin Blaise Camille Clment Charles Constant Damien David Dsir Didier Edmond douard Emmanuel mile Etienne Eugne Flix Fernand Feullien Florent Franois Frdric Georges Grard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Franois Jean-Louis Jean-Jacques Joseph Jules Lambert Laurent Lon Lonard Lopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sbastien Sylvain Thophile Victor Vincent Werner }
 		last_names = { Allard Barbanson Barthlmy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" "de Behr" "de Bocarm" "de Bousies" "de Brouckre" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen" "de Cro" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" "de Mrode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Scus" "de Selys Longchamps" "de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix "Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb Orban Ptillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangerme Wyvekens Zoude }
 	}
-
 }
 
 italian_american = {
@@ -1066,7 +1053,6 @@ italian_american = {
 		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
 		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Mrmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
 	}
-
 }
 
 scandinavian_american = {
@@ -1089,7 +1075,6 @@ scandinavian_american = {
 		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik Elmar Ernst Gustav Haman Harri Heino Hendrik Ivari Otto Jaan Jakob Johannes Joosep Juhan Julius Jri Kaarel Zigfrids Lennart Ludvig Madis Mart Mikhel Nigul Olev Peeter Pent Siiri Sven Tarmo Tnis Toomas Uno Valmar Villwm Voldemar Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian Konstantin Fredrik Fridolf Georg Gsta Harald Hjalmar Hugo Juho Kaarlo Kalev Kurt Lars Martti Mikko Paavo Petteri Rudolf Vin Viktor Vilho Aaron Abrams Alberts Aleksandrs Aloisz Andrejs Arkadij Armands Arnolds Atis Brunis Bruno Eduards Eliass Elmars Emils Evgenijs Filips Fricis Gustavs Leo Mark Martins Mihails Mikelis Nikolajs Oskars Pauls Peteris Rihards Roberts Romans Sandis Sergejs Valdemars Valerians Valter Vilis Vladimirs Adelbert Adolf Albrecht Alexander Alfred Bernhard Burkhard Dieter Edwin Erwin Erich Florian Franz Friedrich Fritz Gnther Hasso Heinrich Helmuth Hermann Joachim Johann Jrgen Karl Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Pascal Paul Peter Reinhard Ruprecht Stefan Theodor Wilhelm Wolfgang }
 		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhhe Eenpalu Hint Claus Jaakson Kangro Kint Klaasen Koern Kiv Kotli Kumari Kupine Kuusik Leppik Orkivu Pts Perna Piiper Poska Puusepp Ostwald Rei Reinman Siinmaa "Von Biron" "von Benckendorff" "von Laudon" "Von Ungern-Sternberg" "von Osten-Sacken" "von Plettenberg" "von Buxhoeveden" "Rembert von Berg" Wrangel Keyserling Budberg Sikkar Sirk Tnisson Uluots Vaga Veske Vilbaste Vilms "von Uexkll" Warma Nesselrode Abakovskis Apsenieks Balodis Baumanis Berkis Berzin Betins Braons Caks Cakste Caps Celmins Dalins Dambitis Darzins "de Kolongs" Desslers Eizenteins Goppers Halsmans Irbitis Kalnins Kalpaks Kucis Kovalevskis Krogzems Kronvalds Kuks Kviesis Lacis Maters Matisons Meierovics Mihelssons Milenbahs Millers Needra Ozolins Petrovs Pauckers Pumpurs Rothko Simanis Stucka Tumins Wesel Veidenbaums }
 	}
-
 }
 
 english_american = {
@@ -1100,7 +1085,6 @@ english_american = {
 		first_names = { Albert Alexander Alfred Archibald Arthur Augustus Benjamin Bernard Charles Colbert Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand Francis Frederick Geoffrey George Graham Henrey Herbert Horatio Hubert Hugh Ian James Jeremy John Joseph Leopold Lester Louis Martin Nigel Oswald Percy Reginald Richard Robert Stanley Thomas Wallace William Winston Zachary }
 		last_names = { Allenby Battemberg Beatty Beresford Brown Buller Butler Campbell Cardigan Churchill Cochrane Cockburn "de Robeck" Dundas Fisher French Gough Grant Grenfell Haig Hamilton Hardinge Havelock Hope Jellicoe Kitchener Lyons Madden Milne Montgomery Moresby Mundy Napier "of Hannover" "of Saxe-Coburg-Gotha" Plummer Ragland Roberts Seaton Seymour Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
-
 }
 
 latin_american = {
@@ -1139,6 +1123,7 @@ latin_american = {
 	}
 
 	union = CLM
+
 	is_overseas = no
 }
 
@@ -1472,9 +1457,8 @@ altreichisch = {
 	altreicher = {
 		color = { 255 80 0 }
 		first_names = { Abraham Adolf Adriaan Alphonse Albert Alexandre Alexis Alastair Alphonse Andr Andreas Andre Antoine Antoon Auguste Augustus Barthlmy Barthout Baudouin Blaise Camille Casimir Christiaan Christoffel Charles Clement Constant Constantijn Damien Daniel Danil David Des Didier Dominicus Dsir Edmond Edward Emmanuel Emil Eoghan Ernes Erwin Etienne Elias Eugène Fernand Feullien Félix Fiachra Florent Franois Frans Frédéric Frederick Gabriel Georges Gijsbert Gerard Gerben Gilles Godfried Grard Gregory Guillaume Gustaaf Gustave Hans Harry Hector Hercule Hugo Ignace Isaac Jacques Jean Jean-Baptiste Jean-François Jean-Jacques Jean-Louis Jeroen Joost Johan John Joseph Jules Karel Kasper Kevin Lambert Laurent Liam Lodewijk Lonard Lon Lucien Luuk Marius Mathieu Martin Maxime Maximilien Matthijs Maurits Michael Mirren Moritz Nikolaas Niall Olivier Pauwel Pascal Patrice Paul Patrice-Philippe Peter Pierre Pierre-Guillaume Quinten Rafal Richard Robert Ruben Rudolf Roeland Rogier Rutger San Sebastien Sholto Simon Stefan Sylvain Thomas Thophile Tadhg Victor Vincent Werner Willem Zacharias }
-		last_names = { Aiken Allard Andersson van Assendelft Barbanson Barthlmy Baugniet Beaucarne Batenburg Bentinck Berger Berthels Beyts Biver Blargnies Boetge Bredart Brialmont Brouckre Boumeester van Braam van Brederode Brandt Brouwer Buyskes Calder Cameron Campbell Chass Célis Clerix Claus Cochius Coehoorn Coen Collet Cols Collins Coquilhat Connolly Cort-Heyligers Craig d'Arenberg d'Annecroix d'Huart d'Omalius d'Oreye d'Oultremont David Davignon de Baillet de Beaufort de Behr de Bocarm de Bousies de Brouckre de Broqueville de Burlet de Celles de Casembroot de Chasteler de Coppin de Constant de Cro de Decker de Dixmude de Falaen de Gerlache de Grez de Hemptinne de Labbeville de Lannoy de Leuze de Ligne de Melin de Mrode de Pelichy de Quarre de Riquet de Robaulx de Rouille de Sauvage de Scus de Selys-Longchamps de Stassart de Stockem de Theux de Trazegnies de Trooz de Viron de Waha de Winter Defacqz Deguise Delacroix Desmanet Destriveaux Dethier Devaux Deville Dhanis Dreze du Bois du Bus du Pont du Val de Beaulieu Dumont Ellis Engels Engelvaart Evertzen Fabius Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Grant Graham Gregory van Galen de Grouwe van Geen van Ham van Haren van Heemskerck van Heutsz Henry Huysman Janssens Jacques Joos Jottrand Khler Kater Keppel Kool Kortenaer Kruys van der Aa van der Bosch van der Capellen van der Does van der Heijden van der Oye van der Werff van der Wijck van Diemen van Duivenvoorde van Marnix van Oranje-Nassau van Pallandt van Raephorst van Rechteren van Renesse van Riebeeck van Rossum van Spilbergen van Swieten van Troyen van Utenhove van Walbeeck van Wassenaer van Wesembeke van Wingle van Wijngaarden Rijk Rell Sabron Schenk Schimmelpenninck Schouten Spiegel Staal Steltman Stokhuyzen Stuyvesant Tasman Thorn Trip Vetter Verspijck Weitzel Wolterbeek White Wyvekens Zoude }
+		last_names = { Aiken Allard Andersson van Assendelft Barbanson Barthlmy Baugniet Beaucarne Batenburg Bentinck Berger Berthels Beyts Biver Blargnies Boetge Bredart Brialmont Brouckre Boumeester van Braam van Brederode Brandt Brouwer Buyskes Calder Cameron Campbell Chass Célis Clerix Claus Cochius Coehoorn Coen Collet Cols Collins Coquilhat Connolly Cort-Heyligers Craig d'Arenberg d'Annecroix d'Huart d'Omalius d'Oreye d'Oultremont David Davignon de Baillet de Beaufort de Behr de Bocarm de Bousies de Brouckre de Broqueville de Burlet de Celles de Casembroot de Chasteler de Coppin de Constant de Cro de Decker de Dixmude de Falaen de Gerlache de Grez de Hemptinne de Labbeville de Lannoy de Leuze de Ligne de Melin de Mrode de Pelichy de Quarre de Riquet de Robaulx de Rouille de Sauvage de Scus de Selys-Longchamps de Stassart de Stockem de Theux de Trazegnies de Trooz de Viron de Waha de Winter Defacqz Deguise Delacroix Desmanet Destriveaux Dethier Devaux Deville Dhanis Dreze du Bois du Bus du Pont du Val de Beaulieu Dumont Ellis Engels Engelvaart Evertzen Fabius Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Grant Graham Gregory van Galen de Grouwe van Geen van Ham van Haren van Heemskerck van Heutsz Henry Huysman Janssens Jacques Joos Jottrand Khler Kater Keppel Kool Kortenaer Kruys van der Aa van der Bosch van der Capellen van der Does van der Heijden van der Oye van der Werff van der Wijck van Diemen van Duivenvoorde van Marnix van Oranje-Nassau van Pallandt van Raephorst van Rechteren van Renesse van Riebeeck van Rossum van Spilbergen van Swieten van Troyen van Utenhove van Walbeeck "van Wassenaer" van Wesembeke van Wingle van Wijngaarden Rijk Rell Sabron Schenk Schimmelpenninck Schouten Spiegel Staal Steltman Stokhuyzen Stuyvesant Tasman Thorn Trip Vetter Verspijck Weitzel Wolterbeek White Wyvekens Zoude }
 	}
-
 }
 
 celtic = {
@@ -1505,7 +1489,6 @@ celtic = {
 		first_names = { Aeron Bran Cadeyrn Caradoc Cunedda Ceri Dumnorix Edern Emrys Ffraid Gawain Geraint Gwion Idris Iestyn Llewelyn Maelgwn Medraut Myrddin Nefydd Owain Peredur Rhun Taliesin Tewdric Urien Vortigern }
 		last_names = { Abernathy Aelwyd Bala Cadogan Carreg Celyddon Cynon Dinefwr Eryri Fforest Gwynedd Hafod Llyn Llewellyn Meurig Myrddin Penrose Rhydderch Tregaron Tydfil Vryn }
 	}
-
 }
 
 roman = {
@@ -1516,7 +1499,6 @@ roman = {
 		first_names = { Aelius Agrippa Antonius Augustus Aurelius Balbinus Brutus Caius Cassius Claudius Cornelius Decimus Domitius Drusus Faustus Fabius Flavius Gaius Galerius Hadrian Horatius Julius Junius Laelius Lucius Magnus Marcus Maximus Nero Octavius Paulus Petronius Quintus Severus Tiberius Titus Trajanus Valerius Varro Vitellius }
 		last_names = { Aquilinus Appianus Bassianus Calpurnius Celsinus Crispinus Domitianus Flavianus Gallicanus Glabrio Julianus Laevinus Livius Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus }
 	}
-
 }
 
 armoricain = {
@@ -1533,7 +1515,6 @@ armoricain = {
 		first_names = { Acelin Aelius Agrippa Alaric Alban Antoine Antonius Auguste Augustus Aurelius Balbin Barthélemy Blaise Brutus Caius Cassius Claudius Cornelius Damien Decimus Domitius Drusus Édouard Émeric Faustin Faustus Fabius Flavius Florent Gaius Galerius Gaspard Hadrian Hilaire Horace Horatius Hugo Julien Julius Junius Laelius Lucien Lucius Magnus Marcel Marcus Maxence Maximus Narcisse Nero Octavius Olivier Paulus Petronius Philippe Quintus Rémy Severus Sébastien Tiberius Thibault Titus Trajanus Valentin Valerius Varro Victor Vitellius }
 		last_names = { Aquilinus Appianus Bassianus Beaumont Calpurnius Celsinus Crispinus d'Aquitaine Domitianus Flavianus Gallicanus Glabrio Grimaldi Julianus Laevinus Livius Marcellin Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus Armand Aubert Blanchet Chastel Clément Dubois Fontaine Girard Laurent Leclerc Moreau Noël Perrin Roche Rousseau Saint-Clair Valois Verneuil Villiers }
 	}
-
 }
 
 francais = {
@@ -1568,7 +1549,6 @@ francais = {
 		first_names = { Adrien Alphonse Andreas Anton Armand Auguste Baptiste Benoît Bernard Charles Conrad Damien Dietrich Édouard Émile Ernst Eugène Félix Franz Frédéric Gabriel Gérard Guillaume Henri Hubert Jacques Johann Joseph Jules Karl Laurent Léon Louis Lucien Matthieu Maximilien Michel Nicolas Olivier Otto Pascal Philippe Pierre Raimond René Sébastien Théodore Valentin Victor Wilhelm }
 		last_names = { Aubry Baudin Becker Bergmann Bernard Boulanger Brandt Dietrich Dubois Eberhardt Fabre Fischer Fournier François Girard Graff Haas Hartmann Hebert Heinrich Keller Klein Kraemer Lambert Laurent Lemaire Leroy Maier Martin Meyer Moreau Muller Neumann Petit Renault Richard Schneider Schmitt Schreiber Schulte Simon Strauss Vasseur Vogel Wagner Weber Weiss Werner }
 	}
-
 }
 
 catharien = {
@@ -1585,7 +1565,6 @@ catharien = {
 		first_names = { Ademar Aimar Alain Amiel Anselm Arnaud Artaud Aurelien Aymeric Benoît Bernat Bertrand Clément Dalmau Damian Estève Étienne Fabien Félix Florent Géraud Guilhem Isarn Jaufre Joan Jordà Laurent Léon Loup Manel Marcel Marius Mateu Miralh Olivier Pèire Pons Raimond Ramon Rémi Renaud Riquier Sèrgi Simon Teobald Tristan Valeri Victor }
 		last_names = { Abadie Arnaud Arriou Aubert Ayguesvives Barrau Bascou Bordenave Bousquet Cazaux Claverie Darrieux Dufau Duran Dupuy Escande Fabre Faure Fauré Giraud Laffitte Lalanne Lannes Laporte Larroque Lartigue Lavergne Lavigne Lestage Maurel Moncade Montané Pélissier Pons Prat Reynaud Rigal Sabatier Sarrat Tissier Valette Viguier }
 	}
-
 }
 
 scandinavian = {
@@ -1621,7 +1600,6 @@ scandinavian = {
 		first_names = { Aage Adam Alber Anders ASmund Axel Carl Christian Edvard Edvin Erik Folke Frederik Georg Hannibal Hans Henrik Herman Hugo Ivar Jacob Johan Julius Knud Ludvig Magnus Michael Niels Olav Otto Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian Fredrik Fridolf Georg Gsta Harald Hjalmar Hugo Johannes Juho Kaarlo Kurt Lars Martti Mikko Paavo Petteri Rudolf Vin Viktor Vilho }
 		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso de Meza Eberlin Falsen Folsach Gntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Schack-Schackenborg Stemman Suenson Thygeson Trampe Urne von Holstein von Oldenburg Wadenstierna Wedel-Heinen Zytphen-Adeler Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Jrneflt Linder Mannerheim Multamki Nenonen Oesch quist sterman Paasikivi Raappana Ramsay Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo von Hesse-Kassel Walden Wallenius Wetzer }
 	}
-
 }
 
 swiss = {
@@ -1638,7 +1616,6 @@ swiss = {
 		first_names = { Adalbert Adelhard Alarich Albrecht Alwin Anselm Anton Armin Artho Berchtold Berthold Bruno Christoph Conrad Dietmar Dietrich Eberhard Egon Emil Ernst Falko Ferdinand Franz Friedrich Gerhard Gottfried Hans Hartmut Heinrich Hermann Hugo Jakob Johann Josef Karl Kaspar Konrad Leopold Ludwig Luitpold Markus Matthias Michael Nikolaus Othmar Ottmar Raimund Rudolf Samuel Sebastian Sigmund Simon Stefan Theodor Ulrich Valentin Viktor Walther Wilhelm Wolf }
 		last_names = { Aeschlimann Ackermann Althaus Baumann Berger Bühler Dietrich Dinkel Egger Fankhauser Feldmann Fischer Flückiger Gassmann Gerber Graf Haas Haller Hegi Huber Keller Koller Köhler Lang Lehmann Maier Meier Moser Neidhart Neumann Pfeiffer Rechberger Rickenbach Rieder Schaller Schmid Schneider Schuler Stadelmann Steiner Vogel Weber Weiss Zimmermann }
 	}
-
 }
 
 germanic = {
@@ -1673,7 +1650,6 @@ germanic = {
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Edmund Eduard Engelbert Ernst Erwin Ferdinand Franz Friedrich Gebhard Gerhard Gottfried Gnther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
 		last_names = { Beck-Rzikowsky Blos Dankl Eisner Geiss Goering Hainisch Haus Held Hellpach Hoffmann Hummel Khler Mergenthaler Miklas Remmele Schmitt Schobber Seitz Steeb Stolzer Trunk "von Baden" "von Benedek" "von Bhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz" "von Grnne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Htzendorf" "von Kirbach" "von Kobratin" "von Schnburg" "von Tegetthoff" "von Uchatius" "von Wittelsbach" "von Wrttemberg" "von Zahringen" Wagner Wittmann "zu Hohenlohe" }
 	}
-
 }
 
 iberian = {
@@ -1703,6 +1679,4 @@ iberian = {
 		first_names = { Alarico Alfonso Alvito Ansur Arnoldo Bermudo Braulio Diego Donato Fernando Gonzalo Gutierre Hugo Iñigo Jaime Juan Lamberto Leocadio Lope Luis Mendo Ordoño Pelayo Ramiro Rodrigo Sancho Teodomiro Tomás Ulrico Vicente }
 		last_names = { Abad Alvarez Arias Bermudez Blanco Braña Castaño Cruz Cortéz Fernández Gutiérrez López Llamas Martínez Menéndez Muñiz Núñez Otero Peláez Pérez Prieto Ramírez Rodríguez Ríos Suárez Vázquez Velasco }
 	}
-
 }
-
