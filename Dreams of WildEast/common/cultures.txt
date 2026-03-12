@@ -23,42 +23,6 @@ jewish_cultures = {
 	}
 }
 
-italian = {
-	leader = european
-	unit = ItalianGC
-	north_italian = {
-		color = { 130 212 157 }
-		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Mrmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-	}
-
-	central_italian = {
-		color = { 82 186 117 }
-		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Mrmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-	}
-
-	south_italian = {
-		color = { 38 144 73 }
-		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
-		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis" "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
-	}
-
-	maltese = {
-		color = { 200 246 15 }
-		first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg Joseph Karmenu Lawrenz Marju Mikiel Ninu Pawlu Rokku Saber Ugo Valent }
-		last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
-	}
-
-	venetian = {
-		color = { 54 167 156 }
-		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
-		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Mrmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
-	}
-
-	union = ITA
-}
-
 south_slavic = {
 	leader = european
 	unit = AustriaHungaryGC
@@ -1678,5 +1642,45 @@ iberian = {
 		color = { 150 150 0 }
 		first_names = { Alarico Alfonso Alvito Ansur Arnoldo Bermudo Braulio Diego Donato Fernando Gonzalo Gutierre Hugo Iñigo Jaime Juan Lamberto Leocadio Lope Luis Mendo Ordoño Pelayo Ramiro Rodrigo Sancho Teodomiro Tomás Ulrico Vicente }
 		last_names = { Abad Alvarez Arias Bermudez Blanco Braña Castaño Cruz Cortéz Fernández Gutiérrez López Llamas Martínez Menéndez Muñiz Núñez Otero Peláez Pérez Prieto Ramírez Rodríguez Ríos Suárez Vázquez Velasco }
+	}
+}
+
+italian = {
+	leader = european
+	unit = ItalianGC
+	venetian = {
+		color = { 194 157 156 }
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Mrmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+
+	lombard = {
+		color = { 130 212 150 }
+		first_names = { Adalberto Alberto Aldo Ambrogio Anselmo Ariberto Arnaldo Ariperto Astolfo Attilio Baldovino Bernardo Berengario Bonifacio Bruno Carlo Cesare Corrado Cristiano Davide Domenico Edoardo Enrico Ermanno Ettore Fabio Federico Felice Ferdinando Filippo Francesco Gabriele Gaspare Gerardo Giovanni Giuseppe Guido Ildebrando Jacopo Lamberto Lorenzo Ludovico Manfredo Marcello Marco Martino Matteo Michele Niccolò Oberto Ottaviano Paolo Pietro Rinaldo Roberto Rolando Ruggero Sebastiano Teobaldo Tommaso Valentino Vincenzo Vittorio }
+		last_names = { Rossi Bianchi Colombo Ferrari Esposito Ricci Bruno Galli Conti Fontana Grimaldi Lombardi Moretti Rinaldi Bellini Marino "De Luca" Martino D’Angelo D’Este "Della Rovere" "Della Scala" "Del Monte" "Del Vecchio" "Del Balzo" "Del Carretto" "Del Giudice" "Del Conte" "Di Medici" "Di Sangro" "Di Sanseverino" "Di Capua" "Di Pietra" "Di Monti" "Di Vico" "Di Castelnuovo" Malaspina Sforza Visconti Borromeo Pallavicini Gonzaga Baglioni Orsini }
+	}
+
+	ligurian = {
+		color = { 130 212 185 }
+		first_names = { Alessandro Baldassare Bartolomeo Bernardo Camillo Carlo Cesare Cristoforo Domenico Donato Edoardo Enrico Fabrizio Federico Filippo Francesco Gabriele Gaetano Gaspare Giacomo Gianluca Giovanni Giuseppe Giuliano Guido Lorenzo Ludovico Marcello Marco Martino Matteo Michelangelo Niccolò Ottaviano Paolo Pietro Raffaele Raimondo Renato Riccardo Roberto Ruggiero Salvatore Sebastiano Silvio Stefano Teodoro Tommaso Valentino Vincenzo Vittorio }
+		last_names = { Rossi Bianchi Colombo Ferrari Esposito Ricci Bruno Galli Conti Fontana Grimaldi Lombardi Moretti Rinaldi Bellini Marino "De Luca" D’Angelo D’Este "Della Rovere" "Della Scala" "Del Monte" "Del Vecchio" "Del Balzo" "Del Carretto" "Del Giudice" "Del Conte" "Di Medici" "Di Sangro" "Di Sanseverino" "Di Capua" "Di Pietra" "Di Monti" "Di Vico" "Di Castelnuovo" "De’ Grimaldi" "De’ Spinola" "Doria del Mare" "Doria dei Genovesi" "Fieschi di Lavagna" "Imperiale di Oneglia" "Cattaneo della Torre" "Balbi di Savona" "Grimaldi di Monaco" "Spinola di Pegli" "Centurione di Sampierdarena" "Brignole Sale" }
+	}
+
+	rhomaioi = {
+		color = { 150 100 190 }
+		first_names = { Alexandros Andreas Antonios Basilios Christoforos Demetrios Dionysios Eleftherios Elias Georgios Ioannis Iakovos Konstantinos Kyriakos Leandros Leonidas Loukas Manolis Michael Nikolaos Panagiotis Petros Stephanos Theodoros Timotheos Vasileios Xenophon }
+		last_names = { Papadopoulos Karahalios Angelopoulos Vassilakis Konstantinou Dimitrakis Kallinikos Phokas Palaiologos Komnenos Doukas Kantakouzenos Laskaris Mourtzanos Chrysanthos Drakos Zorbas Malamas Sgouros Kontos Marmaras "de Napoli" "di Calabria" "di Sicilia" "di Bari" "di Taranto" "di Reggio" "di Messina" "di Salerno" "di Amalfi" }
+	}
+
+	repubblicani = {
+		color = { 155 170 155 }
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Bava-Beccaris Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani d'Absburgo-Toscana d'Austria-Este Dezza "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" Emo Fanti Fara Filomarino Garibaldi Giardino Govone "La Mrmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
+	}
+
+	neapolitan = {
+		color = { 38 174 170 }
+		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
+		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis" "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 	}
 }
