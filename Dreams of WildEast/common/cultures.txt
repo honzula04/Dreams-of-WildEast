@@ -1665,16 +1665,24 @@ west_slavic = {
 		first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy Viktor Volodimir Vladislav Yuriy }
 		last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kondratenko Leshchenko Leshchinskiy Omelianovych-Pavlenko Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
 	}
+}
 
+bohemian = {
+	leader = european
+	unit = EuropeanGC
 	czech = {
-		color = { 120 120 255 }
+		color = { 128 128 255 }
 		first_names = { Abraham Alexander Alfred Alois Antonín August Bedřich Benedikt Bořivoj Čeněk David Drahoslav Edvard Emanuel Emil Evžen František "František Josef" "František Xaver" Hermenegild Jan "Jan Křtitel" "Jan Nepomuk" Jaroslav Jindřich Jiří Josef Kajetán Karel Konstantin Ladislav Ludvík Matyáš Maxmilián Mikuláš Olbram Otakar Pavel Petr Radola Rafael Tomáš Václav Vincenc Vítězslav Vlastimil Vojtěch Vratislav Zdeněk }
 		last_names = { Albert Balaban Basch Breiský Čelovský Dvořák Fibich Gajda Gellner Hálek Hrdlička Jireček Kadlec Kafka Koller Krčkovský Kučera Kuchař Lederer Makovský Mik Moravec Němeček Neruda Nováček Novotný Popper Radecký Rokytanský Šafařík Šafránek Schack Schubert Škoda Skuherský Smetana Šnejdárek Suk Svoboda Sýrový Tomešek Tyl Vítek "von Mittrowitz-Nettolitzky" Voříšek Wankel Weber Zbrt Zvěřina Zoubek }
 	}
+}
 
+cotinian = {
+	leader = european
+	unit = EuropeanGC
 	slovak = {
 		color = { 128 128 128 }
 		first_names = { Albín Alexander Andrej Andrej Augustín Basil Cyprián Dalibor Dezider Dominik Eugen Fedor Ferdinand František Frico Gabriel Gustáv Imrich Jáchym Ján Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej Michal Mikuláš Milan Miloš Miloslav Miroslav Pavel Pavol Peter Ratislav Rudolf Samuel Sergej Štefan Svätopluk Tibor Tomáš Viliam Vladimír Vojtech }
-		last_names = { Achim Bžlík Bella Beneš Blaho Čatloš Cikker Clementis Daxner Dubček Figus-Bystrý Frešo Gojdič Golian Hlinka Hodža Hopko Hurban Hurban-Vajanský Hušek Ivanka Kafenda Kardoš Kočák Kupkovič Mach Macudzinski Malár Malovec Markovič Masaryk Máry Moyses Rázus Roháček Rudnay Selepcéni Sidor Škultéty-Gábriš Šmík Sokol Štefánik Suchoň Šverma Tiso Trčka Tuka Turanec Viest Zoch }
+		last_names = { Achim Bžlík Bella Beneš Blaho Čatloš Cikker Clementis Daxner Dubček Figus-Bystrý Frešo Gojdič Golian Hlinka Hodža Hopko Hurban Hurban-Vajanský Hušek Ivanka Kafenda Kardoš Kočák Kupkovič Mach Macudzinski Malár Malovec Markovič Masaryk Máry Moyses Rázus Roháček Rudnay Selepcéni Sidor Škultéty-Gábriš Šmík Sokol Štefánik Suchoň Šverma Tiso Trčka Tuka Turanec Viest Zoch Štúr }
 	}
 }
