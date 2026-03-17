@@ -91,63 +91,6 @@ hungarian_culture_group = {
 	}
 }
 
-west_slavic = {
-	leader = european
-	unit = AustriaHungaryGC
-	polish = {
-		color = { 255 120 120 }
-		radicalism = 10
-		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Jzef Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
-		last_names = { Bem Br-Komorowski Brzska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski Mikolajczyk Mokronowski Niepoklczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill Rokossowski Rola-Zymierski Rmmel Rzicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
-	}
-
-	ruthenian = {
-		color = { 130 150 85 }
-		first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy Viktor Volodimir Vladislav Yuriy }
-		last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kondratenko Leshchenko Leshchinskiy Omelianovych-Pavlenko Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
-	}
-}
-
-czecho_slovak_culture_group = {
-	leader = european
-	unit = EuropeanGC
-	czech = {
-		color = { 120 120 255 }
-		first_names = { Abraham Alexander Alfred Alois Antonn August Bedrich Benedikt Borivoj Cenek Dvid Drahoslav Edvard Emanuel Emil Evzen Frantisek "Frantisek Josef" "Frantisek Xaver" Hermenegild Jn "Jn Krtitel" "Jn Nepomuk" Jaroslav Jindrich Jir Josef Kajetan Karel Konstantin Ladislav Luvk Matyas Maxmilin Mikuls Olbram Otakar Pavel Petr Radola Rafael Toms Vclav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
-		last_names = { Albert Balaban Basch Breisky Celovsk Dvork Fibich Gajda Gellner Hlek Hrdlicka Jirecek Kadlec Kafka Koller Krzkovsk Kucera Kuchar Lederer Makosky Mik Morvec Nemecek Neruda Novcek Novotn Popper Radeck Rokytansk Safrik Safrnek Schack Schubert Skoda Skuhersk Smetana Snejdrek Suk Svoboda Syrov Tomsek Tyl Vitsek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zbrt Zvr Zoubek }
-	}
-
-	slovak = {
-		color = { 120 255 255 }
-		first_names = { Albn Alexander Andrs Andrej Augustn Basil Cyprin Dalibor Dezider Dominik Eugen Fedor Ferdinand Frantisek Frico Gabriel Gustv Imrich Jchym Jn Janko Jozef Juraj Karol Ladislav Levoslav Marin Marko Martin Matej Michal Mikuls Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav Rudolf Samuel Sergej Stefan Svtozr Tibor Toms Viliam Vladimr Vojtech }
-		last_names = { chim Bzlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek Figus-Bystr Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajansk Husk Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malr Malovec Markovic Masaryk Mry Moyses Rzus Rohcek Rudnay Selepcni Sidor Skultty-Gbris Smik Sokol Stefnik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
-	}
-}
-
-east_slavic = {
-	leader = russian
-	unit = RussianGC
-	russian = {
-		color = { 0 204 0 }
-		first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri }
-		last_names = { Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin Dragomirov Frolov Golivin Grishin Gurko Ivanov Konev Konstantinov Kornilov Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
-	}
-
-	novgorodian = {
-		color = { 0 70 10 }
-		first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri }
-		last_names = { Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin Dragomirov Frolov Golivin Grishin Gurko Ivanov Konev Konstantinov Kornilov Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
-	}
-
-	ugrian = {
-		color = { 60 160 160 }
-		first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
-		last_names = { Kokko Likhachev Mamin Minin Sibiriak Tikhanov Zubov }
-	}
-
-	union = RUS
-}
-
 baltic = {
 	leader = european
 	unit = EuropeanGC
@@ -1682,5 +1625,56 @@ italian = {
 		color = { 38 174 170 }
 		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Sigismondo Tommasso Vincenzo }
 		last_names = { Anfora Barberini-Colonna Bonaccorsi Caraga Cattaneo Chigi Clary Colonna "de Liguori" "de Riseis" "della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
+	}
+}
+
+east_slavic = {
+	leader = russian
+	unit = RussianGC
+	Ilmenian = {
+		color = { 0 204 0 }
+		first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri }
+		last_names = { Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin Dragomirov Frolov Golivin Grishin Gurko Ivanov Konev Konstantinov Kornilov Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
+	}
+
+	Kievan = {
+		color = { 0 70 10 }
+		first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri }
+		last_names = { Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin Dragomirov Frolov Golivin Grishin Gurko Ivanov Konev Konstantinov Kornilov Kolchak Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko }
+	}
+
+	Zlati = {
+		color = { 255 215 0 }
+		first_names = { Batu Berke Tokhta Uzbeg Janibek Timur Mamai Edigu Nogai Temir Sain Kasim Bulat Aydar Yusuf Ivan Dmitry Alexei Mikhail Sergei Fyodor Nikolai Vasily Yaroslav Bogdan Vladislav "Yuri Alexei" "Timur Bek" "Ivan Mikhail" "Sergei Ivan" }
+		last_names = { Ivanov Petrov Sidorov Smirnov Kuznetsov Popov Sokolov Lebedev Novikov Morozov Volkov Fedorov Mikhailov Alekseev Nikitin Batuyev Berkeev Tokhtayev Uzbekov Janibekov Timurov Mamaev Ediguev Nogayev Temirov Sainov Kasimov Bulatov Aydarov Yusupov "Bek Bulatov" "Temir Nogayev" "Janibek Sainov" "Edigu Mamayev" }
+	}
+}
+
+west_slavic = {
+	leader = european
+	unit = AustriaHungaryGC
+	polish = {
+		color = { 255 120 120 }
+		radicalism = 10
+		first_names = { Adam Aleksander Antoni Bolesław Bonawentura Bronisław Dezydery Edmund Edward Emil Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jędrzej Józef Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik Maciej Marceli Marian Mariusz Melchior Michał Mieczysław Roman Romuald Samuel Stanisław Stefan Tadeusz Tomasz Wacław Wilhelm Witold Władysław Wojciech Zygmunt }
+		last_names = { Bem Bór-Komorowski Brzóska Chałasiński Chłapowski Chłopicki Chrzanowski Dąbrowski Dembiński Fabrycy Hauke-Bosak Iżycki Jasiński Klicki Konopczyński Krukowiecki Kruszewski Langiewicz Madaliński Mierosławski Mikołajczyk Mokronowski Niepokólczycki Ostrowski Pac Piłsudski Poniatowski Potocki Prądzyński Radziwiłł Rokossowski Rola-Żymierski Rómmel Rżycki Rybiński Rydz-Śmigły Sanguszko Skrzynecki Sołtyk Sowiński Taczanowski Traugutt Wawrzecki Wieniawa-Długoszowski Wybicki Wysocki Zajączek Załuski Zamoyski Żeligowski }
+	}
+
+	ruthenian = {
+		color = { 130 150 85 }
+		first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy Viktor Volodimir Vladislav Yuriy }
+		last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kondratenko Leshchenko Leshchinskiy Omelianovych-Pavlenko Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
+	}
+
+	czech = {
+		color = { 120 120 255 }
+		first_names = { Abraham Alexander Alfred Alois Antonín August Bedřich Benedikt Bořivoj Čeněk David Drahoslav Edvard Emanuel Emil Evžen František "František Josef" "František Xaver" Hermenegild Jan "Jan Křtitel" "Jan Nepomuk" Jaroslav Jindřich Jiří Josef Kajetán Karel Konstantin Ladislav Ludvík Matyáš Maxmilián Mikuláš Olbram Otakar Pavel Petr Radola Rafael Tomáš Václav Vincenc Vítězslav Vlastimil Vojtěch Vratislav Zdeněk }
+		last_names = { Albert Balaban Basch Breiský Čelovský Dvořák Fibich Gajda Gellner Hálek Hrdlička Jireček Kadlec Kafka Koller Krčkovský Kučera Kuchař Lederer Makovský Mik Moravec Němeček Neruda Nováček Novotný Popper Radecký Rokytanský Šafařík Šafránek Schack Schubert Škoda Skuherský Smetana Šnejdárek Suk Svoboda Sýrový Tomešek Tyl Vítek "von Mittrowitz-Nettolitzky" Voříšek Wankel Weber Zbrt Zvěřina Zoubek }
+	}
+
+	slovak = {
+		color = { 128 128 128 }
+		first_names = { Albín Alexander Andrej Andrej Augustín Basil Cyprián Dalibor Dezider Dominik Eugen Fedor Ferdinand František Frico Gabriel Gustáv Imrich Jáchym Ján Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej Michal Mikuláš Milan Miloš Miloslav Miroslav Pavel Pavol Peter Ratislav Rudolf Samuel Sergej Štefan Svätopluk Tibor Tomáš Viliam Vladimír Vojtech }
+		last_names = { Achim Bžlík Bella Beneš Blaho Čatloš Cikker Clementis Daxner Dubček Figus-Bystrý Frešo Gojdič Golian Hlinka Hodža Hopko Hurban Hurban-Vajanský Hušek Ivanka Kafenda Kardoš Kočák Kupkovič Mach Macudzinski Malár Malovec Markovič Masaryk Máry Moyses Rázus Roháček Rudnay Selepcéni Sidor Škultéty-Gábriš Šmík Sokol Štefánik Suchoň Šverma Tiso Trčka Tuka Turanec Viest Zoch }
 	}
 }
