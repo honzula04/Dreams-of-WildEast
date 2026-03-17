@@ -55,8 +55,6 @@ south_slavic = {
 		first_names = { Abdulvehhab Adnan Ahmed Ali Alija Asim Atif Beriz Dzemal Dzemaludin Elvir Enver Fikret Fuad Gazi Hakija Hamdija Hamid Haris Hasan Husein Irfan Isa Ivan Izet Jusuf Mehmed Meho Mirsad Muhamed Musa Mustafa Naser Osman Raif Rasim Refik Safet Safvet Sefer Sejad Semezdin Semir Skender Sokollu Sulejman Vedad Zija Zlatko Zuko }
 		last_names = { Abdic Arapovic Basgic Belkic Bijedic Catic Causevic Ceric Colakovic Dizdar Dizdarevic Dzikic Dzumhur Ekrem Gradascevic Halilovic Husrev Ibisevic Ilhamija Imamovic Isakovic Izetbegovic Kodro Konjic Kulenovic Lagumdzija Ljajic Ljubicic Ljubijankic Mehmedinovic Muradbegovic Muzurovic Osmanagic Peco Plakalo Pozderac Prazina Rizvanbegovic Sabanadzovic Salihovic Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tkcan Ugljanin }
 	}
-
-	union = YUG
 }
 
 pan_albanian = {
@@ -79,16 +77,6 @@ pan_romanian = {
 	}
 
 	union = ROM
-}
-
-hungarian_culture_group = {
-	leader = european
-	unit = AustriaHungaryGC
-	hungarian = {
-		color = { 110 70 40 }
-		first_names = { Alajos Albert lmos Anasztz Andrs Arisztid Aurl Bla Benedek Bni Bertalan Dniel Dvid Edvrd lis Erno Ferencz Gbor Gbriel Gspr Gyrgy Gyula Ignc Imre Istvn Izidor Jnos Jzsef "Jzsef Manes" Klmn Kroly Katalin Kelemen Krisztian Lajos Lszl Man Mihly Mr Mykls dn Ott Pter Rafael Sndor Simon Tivadar Vilmos Virg Zsigmond }
-		last_names = { Andrssy Apponyi Aulich Bacher Baross Batthyny Bethy Bothmer Damjanich Dessewffy Egressy "Ernyi Ullmann" Farkas "Frakashzi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izs Joseffy Katona Kaufman Kler Kiss Knezich Kogutowicz Lahner Lzr Leiningen-Westerburg Lichtenstein Liszt Mikszth Molnr Nagy-Sndor sterreicher Ottinger Perczel Poeltenberg Remnyi Rohr Schweidel Szchenyi Szemere Szlvic Tersztyansky Trk Varga Vcsey "von Benedek" }
-	}
 }
 
 baltic = {
@@ -1650,7 +1638,27 @@ east_slavic = {
 	}
 }
 
-west_slavic = {
+bohemian = {
+	leader = european
+	unit = EuropeanGC
+	czech = {
+		color = { 128 128 255 }
+		first_names = { Abraham Alexander Alfred Alois Antonín August Bedřich Benedikt Bořivoj Čeněk David Drahoslav Edvard Emanuel Emil Evžen František "František Josef" "František Xaver" Hermenegild Jan "Jan Křtitel" "Jan Nepomuk" Jaroslav Jindřich Jiří Josef Kajetán Karel Konstantin Ladislav Ludvík Matyáš Maxmilián Mikuláš Olbram Otakar Pavel Petr Radola Rafael Tomáš Václav Vincenc Vítězslav Vlastimil Vojtěch Vratislav Zdeněk }
+		last_names = { Albert Balaban Basch Breixský Čelovský Dvořák Fibich Gajda Gellner Hálek Hrdlička Jireček Kadlec Kafka Koller Krčkovský Kučera Kuchař Lederer Makovský Mik Moravec Němeček Neruda Nováček Novotný Popper Radecký Rokytanský Šafařík Šafránek Schack Schubert Škoda Skuherský Smetana Šnejdárek Suk Svoboda Sýrový Tomešek Tyl Vítek "von Mittrowitz-Nettolitzky" Voříšek Wankel Weber Zbrt Zvěřina Zoubek }
+	}
+}
+
+cotinian = {
+	leader = european
+	unit = EuropeanGC
+	slovak = {
+		color = { 128 128 128 }
+		first_names = { Albín Alexander Andrej Andrej Augustín Basil Cyprián Dalibor Dezider Dominik Eugen Fedor Ferdinand František Frico Gabriel Gustáv Imrich Jáchym Ján Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej Michal Mikuláš Milan Miloš Miloslav Miroslav Pavel Pavol Peter Ratislav Rudolf Samuel Sergej Štefan Svätopluk Tibor Tomáš Viliam Vladimír Vojtech }
+		last_names = { Achim Bžlík Bella Beneš Blaho Čatloš Cikker Clementis Daxner Dubček Figus-Bystrý Frešo Gojdič Golian Hlinka Hodža Hopko Hurban Hurban-Vajanský Hušek Ivanka Kafenda Kardoš Kočák Kupkovič Mach Macudzinski Malár Malovec Markovič Masaryk Máry Moyses Rázus Roháček Rudnay Selepcéni Sidor Škultéty-Gábriš Šmík Sokol Štefánik Suchoň Šverma Tiso Trčka Tuka Turanec Viest Zoch Štúr }
+	}
+}
+
+polish = {
 	leader = european
 	unit = AustriaHungaryGC
 	polish = {
@@ -1664,25 +1672,5 @@ west_slavic = {
 		color = { 130 150 85 }
 		first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy Viktor Volodimir Vladislav Yuriy }
 		last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kondratenko Leshchenko Leshchinskiy Omelianovych-Pavlenko Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
-	}
-}
-
-bohemian = {
-	leader = european
-	unit = EuropeanGC
-	czech = {
-		color = { 128 128 255 }
-		first_names = { Abraham Alexander Alfred Alois Antonín August Bedřich Benedikt Bořivoj Čeněk David Drahoslav Edvard Emanuel Emil Evžen František "František Josef" "František Xaver" Hermenegild Jan "Jan Křtitel" "Jan Nepomuk" Jaroslav Jindřich Jiří Josef Kajetán Karel Konstantin Ladislav Ludvík Matyáš Maxmilián Mikuláš Olbram Otakar Pavel Petr Radola Rafael Tomáš Václav Vincenc Vítězslav Vlastimil Vojtěch Vratislav Zdeněk }
-		last_names = { Albert Balaban Basch Breiský Čelovský Dvořák Fibich Gajda Gellner Hálek Hrdlička Jireček Kadlec Kafka Koller Krčkovský Kučera Kuchař Lederer Makovský Mik Moravec Němeček Neruda Nováček Novotný Popper Radecký Rokytanský Šafařík Šafránek Schack Schubert Škoda Skuherský Smetana Šnejdárek Suk Svoboda Sýrový Tomešek Tyl Vítek "von Mittrowitz-Nettolitzky" Voříšek Wankel Weber Zbrt Zvěřina Zoubek }
-	}
-}
-
-cotinian = {
-	leader = european
-	unit = EuropeanGC
-	slovak = {
-		color = { 128 128 128 }
-		first_names = { Albín Alexander Andrej Andrej Augustín Basil Cyprián Dalibor Dezider Dominik Eugen Fedor Ferdinand František Frico Gabriel Gustáv Imrich Jáchym Ján Janko Jozef Juraj Karol Ladislav Levoslav Marián Marko Martin Matej Michal Mikuláš Milan Miloš Miloslav Miroslav Pavel Pavol Peter Ratislav Rudolf Samuel Sergej Štefan Svätopluk Tibor Tomáš Viliam Vladimír Vojtech }
-		last_names = { Achim Bžlík Bella Beneš Blaho Čatloš Cikker Clementis Daxner Dubček Figus-Bystrý Frešo Gojdič Golian Hlinka Hodža Hopko Hurban Hurban-Vajanský Hušek Ivanka Kafenda Kardoš Kočák Kupkovič Mach Macudzinski Malár Malovec Markovič Masaryk Máry Moyses Rázus Roháček Rudnay Selepcéni Sidor Škultéty-Gábriš Šmík Sokol Štefánik Suchoň Šverma Tiso Trčka Tuka Turanec Viest Zoch Štúr }
 	}
 }
