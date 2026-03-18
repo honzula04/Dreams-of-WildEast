@@ -1673,4 +1673,10 @@ polish = {
 		first_names = { Alexei Andrei Anton Arkadiy Borys Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Roman Semyon Sergiy Valeriy Viktor Volodimir Vladislav Yuriy }
 		last_names = { Bezruchko Chernyakhovsky Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kondratenko Leshchenko Leshchinskiy Omelianovych-Pavlenko Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky }
 	}
+
+	pomorzane = {
+		color = { 228 155 128 }
+		first_names = { Adam Aleksander Andrzej Antoni Bogumił Bolesław Czesław Dariusz Dominik Edward Emil Eugeniusz Feliks Franciszek Gerard Grzegorz Henryk Ignacy Jan Jarosław Jerzy Józef Kazimierz Konrad Krzysztof Lech Leon Ludwik Marian Mirosław Mieczysław Nikodem Paweł Piotr Przemysław Rafał Roman Ryszard Sebastian Stanisław Stefan Tadeusz Tomasz Wacław Wiesław Wiktor Władysław Wojciech Zbigniew Zygmunt }
+		last_names = { Bąk Baran Barczak Białek Bielecki Borowski Chmielewski Czarnecki Dąbrowski Domański Dudek Gdański Gdynski Gajewski Górski Grabowski Jankowski Kamiński Kaszubski Kaczmarek Kłosowski Kubiak Kwiatkowski Lewandowski Malinowski Mazur Michalski Nowak Nowicki Ostrowski Pawlak Piotrowski Pucki Rybak Rybicki Sobczak Sokołowski Szczepański Szewczyk Tomaszewski Urbaniak Wójcik Wolski Zawadzki Zieliński Żukowski "z Gdańska" "z Gdyni" "z Pomorza" "z Kaszub" }
+	}
 }
