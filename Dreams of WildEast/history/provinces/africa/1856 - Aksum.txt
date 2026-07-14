@@ -1,5 +1,5 @@
-owner = ETH
-controller = ETH
+owner = FUN
+controller = FUN
 add_core = AMT
 add_core = ETH
 trade_goods = cattle

@@ -1,5 +1,4 @@
-owner = RMN
-controller = RMN
+
 add_core = ZAN
 colonial = 2
 trade_goods = grain
