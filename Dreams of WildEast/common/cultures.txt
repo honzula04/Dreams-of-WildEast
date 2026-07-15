@@ -877,8 +877,6 @@ latin_american = {
 		last_names = { Barreto Bernardes Bittencourt Brando Bras "Cabral da Silva" Caldwell Constant Costa "da Camara" "da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragana" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo" "de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvo Jordo Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osrio Peixoto Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk }
 	}
 
-	union = CLM
-
 	is_overseas = no
 }
 
@@ -1609,4 +1607,48 @@ north_american = {
 		first_names = { Aelius Agrippa Antonius Augustus Aurelius Balbinus Brutus Caius Cassius Claudius Cornelius Decimus Domitius Drusus Faustus Fabius Flavius Gaius Galerius Hadrian Horatius Julius Junius Laelius Lucius Magnus Marcus Maximus Nero Octavius Paulus Petronius Quintus Severus Tiberius Titus Trajanus Valerius Varro Vitellius "Maximus Decimus" }
 		last_names = { Aquilinus Appianus Bassianus Calpurnius Celsinus Crispinus Domitianus Flavianus Gallicanus Glabrio Julianus Laevinus Livius Marcellinus Nasica Nerva Otho Papirius Piso Plinius Pontius Rufinus Sallustius Seneca Sergius Silvanus Spurius Statilius Suetonius Tullius Valerianus Vespasianus Volusianus }
 	}
+
+	is_overseas = yes
+}
+
+south_american = {
+	leader = european
+	unit = SouthAmericanGC
+	colombiquais = {
+		color = { 75 100 130 }
+		first_names = { Adolphe Alain Ambroise Arnaud Bastien Bertrand Celestin Christophe Corentin Denis Edouard Emile Etienne Francois Gaston Gilles Guillaume Henri Hervé Jacques Jean Julien Laurent Luc Marcel Mathieu Maurice Michel Nicolas Noel Olivier Pascal Pierre Remi Renaud Sebastien Tanguy Thierry Thomas Tristan Yann }
+		last_names = { Aubert Beaumont Bertrand Boivin Charbonneau Clemenceau Colbert Cordier Dauphin Delacroix Descartes Deschamps Dufour Dumont Duplessis Durand Fleury Fontaine Fouquet Gaillard Garnier Gauthier Gervais Girard Lacroix Laval Leblanc Leclerc Lefebvre Lemaire Leroux Montcalm Moreau Moulin Pelletier Renard Richer Rousseau Thibault Valois }
+	}
+
+	surinamese = {
+		color = { 195 155 100 }
+		first_names = { Abraham Adriaan Arent Bartholomeus Christoffel Claas Cornelis Daniël Davidt Dirk Eduard Egbert Ewoud Floris Frederik Gerrit Gijsbert Govert Harm Hendrik Herman Isaac Jacob Jan Joost Jurgen Karel Klaas Laurens Leendert Lodewijk Maarten Michiel Nicolaas Pieter Reinier Rutger Sijmen Thijs Willem }
+		last_names = { Adriaanszoon Bakker Beukelszoon Bleeker Boer Brouwer Claeszoon Cruyff Dekker Dijkstra Franszoon Gerritszoon Groot Haan Heemskerk Hooft Janszoon Jong Kok Kramer Maas Meijer Mulder Pietersz Poel Prins Rijn Ruyter Smit Steen Stuyvesant Tasman Thijssen Tromp Veen Vermeer Visser Vries Willems }
+	}
+
+	andarawi = {
+		color = { 140 180 30 }
+		first_names = { Abbas Abdullah Ahmad Akbar Ali Amin Amir Ayyub Badr Bilal Dawud Farid Hamid Hamza Hassan Husayn Ibrahim Idris Ilyas Ismail Jabir Jamal Khalid Mahmoud Mansur Muhammad Musa Mustafa Omar Qasim Rashid Salim Salman Sulayman Tariq Umar Uthman Yahya Yusuf Ziyad }
+		last_names = { Abdelkarim Abdelouahab Abulcasis Alarcon Alfarabi Alhabib Alhamar Alhazen Alhussein Almalik Almazari Almohad Almoravid Almukhtar Alqurtubi Alsayid Altabari Alwazir Averroes Avenzoar Azarquiel Azzahrani Benamar Benhamed Benomar Bensalem Benyoussef Cordobi Farouki Gharnati Hashimi Ibn Khaldun Makhluf Mansouri Marrakushi Qurtubi Sevillani Tariki Umayyad Zaydan }
+	}
+
+	suriyawi = {
+		color = { 100 255 20 }
+		first_names = { Abdallah Abdelaziz Abdelrahman Abubakr Ahmad Akram Alam Alhassan Alhuseyn Alqasim Ameen Anas Anwar Arqam Asim Ayoub Aziz Barakah Bassam Faisal Faruq Ghazi Hakim Hamdan Haroun Hassan Hilal Hisham Hossam Husam Ibrahim Idris Imad Iyad Izz Jalal Khalil Luqman }
+		last_names = { Abdelouafi Abderrahim Abulhasan Alaaraj Alabdali Aladalus Alagha Alahmad Alami Alarabi Alasad Alashraf Alawami Alazhari Albajjali Albasri Albayati Alcazari Alfahri Alfasi Algatani Alghamdi Algharnati Alhashimi Alhilali Aljazairi Alkabir Alkhatib Alkinani Almaghribi Almaliki Almansouri Almaqdisi Almursi Alnajjar Alqadiri Alrashidi Alsanhaji Altlemceni Azzayati }
+	}
+
+	is_overseas = yes
+}
+
+shinsekaijin = {
+	leader = asian
+	unit = JapaneseGC
+	shinsekaijin = {
+		color = { 155 100 255 }
+		first_names = { Akihiro Bowen Chang Chen Daichi Fang Fumio Ganlin Hao Haruki Hiroki Hiroshi Hongwei Ichiro Jian Jianhao Jiro Kaito Kenji Kosuke Liang Lin Makoto Masaru Minoru Naoaki Noboru Qiang Raiden Ren Renjiro Ryoji Satoshi Shen Shinzo Taro Wei Xian Yasuhiro }
+		last_names = { Akamatsu Baishan Chen Fujimori Fujiwara Guo Hashimoto Hayashi Huang Inoue Ito Iwamoto Kato Kobayashi Kojima Liang Lin Liu Matsuda Matsumoto Minamoto Miyamoto Mori Nakamura Nishimura Oda Saito Sakamoto Sato Shimizu Suzuki Takahashi Tanaka Ting Wang Watanabe Wu Yamamoto Yoshida }
+	}
+
+	is_overseas = yes
 }
