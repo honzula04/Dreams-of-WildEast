@@ -1,5 +1,4 @@
-owner = PRV
-controller = PRV
+
 trade_goods = tobacco
 life_rating = 40
 colonial = 2

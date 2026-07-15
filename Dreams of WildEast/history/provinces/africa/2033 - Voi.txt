@@ -1,3 +1,5 @@
+owner = NVR
+controller = NVR
 trade_goods = grain
 terrain = savanna
 life_rating = 15

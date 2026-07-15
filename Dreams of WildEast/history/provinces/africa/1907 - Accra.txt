@@ -1,5 +1,4 @@
-owner = NVR
-controller = NVR
+
 trade_goods = fish
 life_rating = 40
 colonial = 2

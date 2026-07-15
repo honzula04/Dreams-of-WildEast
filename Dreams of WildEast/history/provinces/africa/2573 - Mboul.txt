@@ -1,5 +1,4 @@
-owner = RMN
-controller = RMN
+
 add_core = FJA
 trade_goods = grain
 terrain = semidesert

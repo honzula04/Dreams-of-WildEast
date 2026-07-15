@@ -1,5 +1,4 @@
-owner = RMN
-controller = RMN
+
 add_core = ASH
 trade_goods = fish
 life_rating = 40
