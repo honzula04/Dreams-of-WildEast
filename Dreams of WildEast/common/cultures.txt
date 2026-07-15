@@ -1643,7 +1643,7 @@ south_american = {
 
 shinsekaijin = {
 	leader = asian
-	unit = JapaneseGC
+	unit = ChineseGC
 	shinsekaijin = {
 		color = { 155 100 255 }
 		first_names = { Akihiro Bowen Chang Chen Daichi Fang Fumio Ganlin Hao Haruki Hiroki Hiroshi Hongwei Ichiro Jian Jianhao Jiro Kaito Kenji Kosuke Liang Lin Makoto Masaru Minoru Naoaki Noboru Qiang Raiden Ren Renjiro Ryoji Satoshi Shen Shinzo Taro Wei Xian Yasuhiro }
